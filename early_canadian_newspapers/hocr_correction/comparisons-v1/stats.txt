@@ -1,0 +1,63 @@
+BATCH SIZE 100:
+1) 2.5 Flash Lite:
+    - AI Proposed Changes: 466
+    - Safety Script Blocked: 16
+    - Actual Corrections Applied: 450
+    - Total Execution Time: 0h 3m 45.27s
+
+2) 2.5 Flash:
+    - AI Proposed Changes: 304
+    - Safety Script Blocked: 2
+    - Actual Corrections Applied: 302
+    - Total Execution Time: 0h 21m 18.43s
+
+3) 3.0 Flash:
+    - AI Proposed Changes: 117
+    - Safety Script Blocked: 0
+    - Actual Corrections Applied: 117
+    - Total Execution Time: 2h 13m 53.52s
+
+    Note: this was the first run, as a result, I did not have any debugging 
+    statements enabled. Thus, I ran it again for a few batches, and the results were:
+    (Approx/Manual Stats):
+    - AI Proposed Changes: 6
+    - Safety Script Blocked: 0
+    - Actual Corrections Applied: 6
+    - Total Execution Time: 0h 15m
+
+4) 3.0 Pro:
+    (Approx/Manual Stats):
+    - AI Proposed Changes: 27
+    - Safety Script Blocked: 0
+    - Actual Corrections Applied: 27
+    - Total Execution Time: 0h 15m
+
+==================================================
+
+BATCH SIZE 200:
+1) 2.5 Flash Lite:
+    - AI Proposed Changes: 475
+    - Safety Script Blocked: 23
+    - Actual Corrections Applied: 452
+    - Total Execution Time: 0h 5m 20.12s
+
+2) 2.5 Flash:
+    - AI Proposed Changes: 328
+    - Safety Script Blocked: 2
+    - Actual Corrections Applied: 326
+    - Total Execution Time: 0h 14m 33.97s
+
+==================================================
+
+BATCH SIZE 400:
+1) 2.5 Flash Lite:
+    - AI Proposed Changes: 296
+    - Safety Script Blocked: 4
+    - Actual Corrections Applied: 292
+    - Total Execution Time: 0h 4m 22.43s
+
+2) 2.5 Flash:
+    - AI Proposed Changes: 381
+    - Safety Script Blocked: 6
+    - Actual Corrections Applied: 375
+    - Total Execution Time: 0h 14m 27.14s

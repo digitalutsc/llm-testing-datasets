@@ -1,0 +1,987 @@
+ Loading hOCR: 004_02_0.hocr...
+Found 2658 words. Processing in batches of 200...
+
+Batch 0-200 Processing...
+   [OK] 'bas' -> 'has'
+
+   [OK] 'ft' -> 'st'
+
+   [OK] 'refolutions' -> 'resolutions'
+
+   [OK] 'Foreigne' -> 'Foreigners'
+
+   [OK] 'diftinction' -> 'distinction'
+
+   [OK] 'diftinétions' -> 'distinctions'
+
+   [OK] 'Procia' -> 'Procla'
+
+   [OK] 'hail' -> 'shall'
+
+   [OK] 'themfle' -> 'themselves'
+
+   [OK] 'refufe' -> 'refuse'
+
+   [OK] 'i' -> 'is'
+
+   [OK] 'politica' -> 'political'
+
+   [OK] 'ani' -> 'and'
+
+   [OK] 'fubjection' -> 'subjection'
+ Done. (14 changes applied)
+
+Batch 200-400 Processing...
+   [OK] 'thir' -> 'their'
+
+   [OK] 'publ.fhed' -> 'publifhed'
+
+   [VETO] Orig: 'shall' | AI: 'fhall' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 't' -> 'to'
+
+   [VETO] Orig: 'shall' | AI: 'fhall' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'unde' -> 'under'
+
+   [OK] 'tee' -> 'fee'
+
+   [OK] 'iflue' -> 'iffue'
+
+   [VETO] Orig: 'shame' | AI: 'fhame' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'itself' -> 'itfelf'
+
+   [OK] 'con' -> 'con-'
+
+   [OK] 'Bishops' -> 'Bishops'
+
+   [OK] 'tompanions' -> 'companions'
+ Done. (10 changes applied)
+
+Batch 400-600 Processing...
+   [OK] 'fupported' -> 'supported'
+
+   [OK] 'Thas' -> 'Thus'
+
+   [OK] 'leaft' -> 'least'
+
+   [OK] 'poft-' -> 'post-'
+
+   [OK] 'Affembly' -> 'Assembly'
+
+   [OK] 'propofition' -> 'proposition'
+
+   [OK] 'Bruffels' -> 'Brussels'
+
+   [OK] 'lefs' -> 'less'
+
+   [OK] 'apprehen' -> 'apprehen-'
+
+   [OK] 'Auftrian' -> 'Austrian'
+
+   [OK] 'expreffed' -> 'expressed'
+
+   [OK] 'difpofition' -> 'disposition'
+
+   [OK] 'againt' -> 'against'
+
+   [OK] 'Darmitadt' -> 'Darmstadt'
+ Done. (14 changes applied)
+
+Batch 600-800 Processing...
+   [OK] 'fubmit' -> 'submit'
+
+   [OK] 'theic' -> 'their'
+
+   [OK] 'teen' -> 'seen'
+
+   [OK] 'meatures' -> 'measures'
+
+   [OK] 'Affemblies' -> 'Assemblies'
+
+   [OK] 'inftituted' -> 'instituted'
+
+   [OK] 'felves' -> 'selves'
+
+   [OK] 'difcipline' -> 'discipline'
+
+   [OK] 'till' -> 'still'
+
+   [OK] 'fufpicion' -> 'suspicion'
+
+   [OK] 'fcrupulous' -> 'scrupulous'
+
+   [OK] 'Volunt' -> 'Volunt-'
+
+   [OK] 'p.ofeffed' -> 'professed'
+
+   [OK] 'fubordination' -> 'subordination'
+
+   [OK] 'est' -> 'est-'
+
+   [OK] 'refidence' -> 'residence'
+ Done. (16 changes applied)
+
+Batch 800-1000 Processing...
+   [OK] 'fingular' -> 'singular'
+
+   [OK] 'ftri' -> 'strict'
+
+   [OK] 'pofed' -> 'posed'
+
+   [OK] 'Philofophy' -> 'Philosophy'
+
+   [OK] 'Yomewhere' -> 'somewhere'
+
+   [OK] 'modeft' -> 'modest'
+
+   [OK] 'poft' -> 'post'
+
+   [OK] 'feem' -> 'seem'
+
+   [OK] 'tranferred' -> 'transferred'
+
+   [OK] 'bonor' -> 'honor'
+
+   [OK] 'rife' -> 'rise'
+
+   [OK] 'Lafayete' -> 'Lafayette'
+
+   [OK] 'ferve' -> 'serve'
+
+   [OK] 'Coun' -> 'Coun-'
+
+   [OK] 'difobediance' -> 'disobedience'
+
+   [OK] 'fplendid' -> 'splendid'
+
+   [OK] 'truft' -> 'trust'
+ Done. (17 changes applied)
+
+Batch 1000-1200 Processing...
+   [VETO] Orig: 'past' | AI: 'paft' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: 'most' | AI: 'moft' | Reason: VETO_REVERSE_S_TO_F
+ Done. (0 changes applied)
+
+Batch 1200-1400 Processing... Failed (Finish Reason: 2)
+
+Batch 1400-1600 Processing...
+   [OK] 'païs' -> 'pays'
+
+   [OK] 'Nailfance' -> 'Naissancé'
+
+   [OK] 'matieres' -> 'matières'
+
+   [OK] 'polf' -> 'politiques'
+
+   [OK] 'iques' -> 'du'
+
+   [OK] 'du' -> 'gouvernement'
+
+   [OK] 'gouvernement' -> 'et'
+
+   [OK] 'et' -> 'à'
+
+   [OK] 'à' -> 'la'
+
+   [OK] 'la' -> 'sujection'
+
+   [OK] 'fujerion' -> 'civile'
+
+   [OK] 'civile' -> ','
+
+   [OK] ',' -> 'mais'
+
+   [OK] 'mais' -> 'ne'
+
+   [OK] 'ne' -> 'regardent'
+
+   [OK] 'regardent' -> 'aucunement'
+
+   [OK] 'aucunement' -> 'les'
+
+   [VETO] Orig: 'les' | AI: 'affaires' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'affaires' -> 'do-'
+
+   [OK] 'stique' -> 'mestique'
+
+   [OK] 'propriétes' -> 'propriétés'
+
+   [OK] 'cunation' -> 'clamation'
+
+   [OK] 'ta' -> 'ur'
+
+   [OK] 'Etrangers' -> 'Étrangers'
+
+   [OK] 'residents' -> 'résidents'
+
+   [OK] 'd'Etrangers' -> 'd'Étrangers'
+
+   [OK] 'fimple' -> 'simple'
+
+   [OK] 'foumillion' -> 'soumission'
+
+   [OK] 'loix' -> 'lois'
+
+   [OK] 'Ro' -> 'Ro-'
+
+   [OK] 'fernt' -> 'feront'
+
+   [OK] 'dirunt' -> 'diront'
+
+   [OK] 'a'ecriront' -> 'n'écriront'
+
+   [OK] 'chofe' -> 'chose'
+
+   [OK] 'fedule' -> 'fédulé'
+
+   [OK] 'Aina' -> 'Ainsi'
+
+   [OK] 's'evaporer' -> 's'évaporer'
+
+   [OK] 'fue' -> 'l'issue'
+
+   [OK] 'abfurdités' -> 'absurdités'
+
+   [OK] 'intolerance' -> 'intolérance'
+
+   [OK] 'foumettre' -> 'soumettre'
+
+   [OK] 'anathématite' -> 'anathématisé'
+
+   [OK] 'configné' -> 'condamné'
+
+   [OK] 'conftitutio-' -> 'constitution-'
+
+   [OK] 'net' -> 'nel'
+
+   [OK] 'adiité' -> 'aidité'
+
+   [OK] 'a' -> 'à'
+
+   [OK] 'confecration' -> 'consécration'
+ Done. (47 changes applied)
+
+Batch 1600-1800 Processing...
+   [VETO] Orig: 'seable' | AI: 'fembële' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: 'résorme' | AI: 'réforme' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'promulgé' -> 'promulgué'
+
+   [VETO] Orig: 'est' | AI: 'eft' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: 'n'est' | AI: 'n'eft' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'abielu.ment' -> 'abfolument'
+
+   [VETO] Orig: 'est' | AI: 'eft' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: 'personnes' | AI: 'perfonnes' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'i' -> 'l''
+
+   [OK] 'fembice' -> 'fembële'
+
+   [OK] 'ation' -> 'iation'
+
+   [OK] 'pro' -> 'pro-'
+
+   [VETO] Orig: 'se' | AI: 'fe' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'Aut' -> 'Août'
+
+   [VETO] Orig: 'conséquence' | AI: 'conféquence' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'Pais' -> 'Païs'
+
+   [OK] 'Pas' -> 'Bas'
+
+   [OK] 'guérie' -> 'guerie'
+
+   [OK] 'a' -> 'avant'
+
+   [OK] 'ant' -> 'de'
+
+   [OK] 'de' -> 'marcher'
+
+   [OK] 'marcher' -> 'contre'
+
+   [OK] 'contre' -> 'la'
+
+   [OK] 'la' -> 'France'
+
+   [OK] 'France' -> '.'
+
+   [OK] 'Darmtadt' -> 'Darmftadt'
+
+   [OK] 'ment' -> 'arrerages'
+
+   [OK] 'des' -> 'qui'
+
+   [OK] 'anciens' -> 'leur'
+
+   [VETO] Orig: 'arrerages' | AI: 'font' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'qui' -> 'dus'
+
+   [OK] 'leur' -> ','
+
+   [OK] 'font' -> 'et'
+
+   [OK] 'dus' -> 'ont'
+
+   [OK] ',' -> 'enfuite'
+
+   [OK] 'et' -> 'brulé'
+
+   [OK] 'officiers' -> 'publiquement'
+
+   [OK] ';' -> 'les'
+
+   [OK] 'leur' -> 'canes'
+
+   [OK] 'dilant' -> 'de'
+
+   [OK] 'en' -> 'leur'
+ Done. (32 changes applied)
+
+Batch 1800-2000 Processing...
+   [OK] 'Darmftadt' -> 'Darmstadt'
+
+   [OK] 'enfuite' -> 'ensuite'
+
+   [OK] 'brulé' -> 'brûlé'
+
+   [OK] 'enfuite' -> 'ensuite'
+
+   [OK] 'brulé' -> 'brûlé'
+
+   [OK] 'cames' -> 'canes'
+
+   [OK] 'fouffriroient' -> 'souffriraient'
+
+   [OK] 'plu' -> 'plus'
+
+   [OK] 'd'etre' -> 'd'être'
+
+   [OK] 'ete' -> 'été'
+
+   [OK] 'accordce' -> 'accordées'
+
+   [OK] 'decamperoient' -> 'décamperoient'
+
+   [OK] 'cue' -> 'eue'
+
+   [OK] 'l'organifat' -> 'l'organisat'
+
+   [OK] 'complete' -> 'complète'
+
+   [OK] 'Françoife' -> 'Françoise'
+
+   [OK] 'dé.iberuient' -> 'délibéraient'
+
+   [OK] 'foldats' -> 'soldats'
+
+   [OK] 'ailemb' -> 'assemblées'
+
+   [OK] 'institus' -> 'institué'
+
+   [OK] 'onfeil' -> 'conseil'
+
+   [OK] 'difcipline' -> 'discipline'
+
+   [OK] 'delits' -> 'délits'
+
+   [OK] 'd'Orleans' -> 'd'Orléans'
+
+   [OK] 'étre' -> 'être'
+
+   [OK] 'fingul-' -> 'singul-'
+
+   [OK] 'frictement' -> 'strictement'
+
+   [OK] 'conféres' -> 'conférés'
+
+   [OK] 'impotes' -> 'imposés'
+
+   [OK] 'eiprit' -> 'esprit'
+
+   [OK] 'philofophie' -> 'philosophie'
+
+   [OK] 'enfeigné' -> 'enseigné'
+
+   [OK] 'ficcle' -> 'siècle'
+
+   [OK] 'plait' -> 'plaît'
+
+   [VETO] Orig: 'qualiser' | AI: 'qualifier' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'l'epithete' -> 'l'épithète'
+
+   [OK] 'modefte' -> 'modeste'
+
+   [OK] 'ement' -> 'ment'
+
+   [OK] 'poftes' -> 'postes'
+
+   [OK] 'font' -> 'sont'
+
+   [OK] 'eftimés' -> 'estimés'
+ Done. (40 changes applied)
+
+Batch 2000-2200 Processing...
+   [OK] 'fidélement' -> 'fidèlement'
+
+   [OK] 'penfent' -> 'pensent'
+
+   [OK] 'confifte' -> 'consiste'
+
+   [OK] 'devoirs' -> 'devoirs.'
+
+   [OK] 'meme' -> 'même'
+
+   [OK] 'erut' -> 'crut'
+
+   [OK] 'fervir' -> 'servir'
+
+   [OK] 'caule' -> 'cause'
+
+   [OK] 'obéillance' -> 'obéissance'
+
+   [OK] 'réligna' -> 'réalışna'
+
+   [OK] 'f'enrôla' -> 's'enrôla'
+
+   [OK] 'limple' -> 'simple'
+
+   [OK] 'foldat' -> 'soldat'
+
+   [OK] 'fentinelle' -> 'sentinelle'
+
+   [OK] 'tems' -> 'temps'
+
+   [OK] 'd'Orleans' -> 'd'Orléans'
+
+   [OK] 'foit' -> 'soit'
+
+   [OK] 'fufpicions' -> 'suspicions'
+
+   [OK] 'die' -> 'nie'
+
+   [OK] 'réproches' -> 'reproches'
+
+   [OK] 'a' -> 'à-'
+
+   [OK] 'feru' -> 'feru-'
+
+   [OK] 'regulier' -> 'régulier'
+
+   [OK] 'fubordination' -> 'subordination'
+ Done. (24 changes applied)
+
+Batch 2200-2400 Processing...
+   [OK] 'cordialement' -> 'cordialement.'
+
+   [OK] '.' -> ''
+
+   [OK] 'de' -> 'est'
+
+   [OK] 'Montpenfier' -> 'enrôlé'
+
+   [OK] ',' -> 'depuis'
+
+   [OK] 'son' -> 'longtems,'
+
+   [OK] 'jeune' -> 'et'
+
+   [OK] 'fils' -> 'paroît'
+
+   [OK] ',' -> 'journellement'
+
+   [OK] 'est' -> 'sous'
+
+   [OK] 'enrôlé' -> 'l'uniforme'
+
+   [OK] 'depuis' -> 'd'un'
+
+   [OK] 'longtems' -> 'simple'
+
+   [OK] ',' -> 'soldat.'
+
+   [OK] 'et' -> 'M.'
+
+   [OK] 'paroit' -> 'de'
+
+   [VETO] Orig: 'journ-' | AI: 'Chartres,' | Reason: VETO_HYPHEN_LOSS
+
+   [OK] 'ellement' -> 'son'
+
+   [VETO] Orig: 'sous' | AI: 'frere' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'l'uniforme' -> 'ainé,'
+
+   [OK] 'd'un' -> 'étoit'
+
+   [OK] 'fimple' -> 'très'
+
+   [OK] 'foldat' -> 'estimé'
+
+   [OK] '.' -> 'parmi'
+
+   [OK] 'M.' -> 'les'
+
+   [OK] 'de' -> 'Citoyens'
+
+   [OK] 'Chartres' -> 'de'
+
+   [OK] ',' -> 'Vendôme,'
+
+   [OK] 'son' -> 'du'
+
+   [OK] 'frere' -> 'tems'
+
+   [OK] 'ainé' -> 'doit'
+
+   [OK] ',' -> 'en'
+
+   [OK] 'ctoit' -> 'cet'
+
+   [OK] 'très' -> 'endroit.'
+
+   [OK] 'eftimé' -> ''
+
+   [OK] 'Riponje' -> 'Réponse'
+
+   [OK] 'Pologne' -> 'Pologne,'
+
+   [OK] ',' -> 'au'
+
+   [OK] 'au' -> 'général'
+
+   [OK] 'général' -> 'Vietinghoff.'
+
+   [OK] 'Vietinghoff' -> 'Varsovie,'
+
+   [OK] '.' -> 'le'
+
+   [OK] 'Varfovie' -> '28'
+
+   [OK] ',' -> 'avril'
+
+   [OK] 'le' -> '1791.'
+
+   [OK] '28' -> ''
+
+   [OK] 'Vietinghoff' -> 'Vietinghoff,'
+
+   [OK] ',' -> 'il'
+
+   [OK] 'il' -> 'm'est'
+
+   [OK] 'm'est' -> 'bien'
+
+   [OK] 'bien' -> 'flatteur'
+
+   [OK] 'flatteur' -> 'de'
+
+   [OK] 'de' -> 'recevoir,'
+
+   [OK] 'recevoir' -> 'après'
+
+   [OK] ',' -> 'une'
+
+   [OK] 'après' -> 'séparation'
+
+   [OK] 'une' -> 'de'
+
+   [OK] 'feparation' -> '30'
+
+   [OK] 'de' -> 'années,'
+
+   [OK] '30' -> 'un'
+
+   [OK] 'années' -> 'témoignage'
+
+   [OK] ',' -> 'de'
+
+   [OK] 'un' -> 'vos'
+
+   [OK] 'témoignage' -> 'sentimens'
+
+   [OK] 'de' -> 'aussi'
+
+   [VETO] Orig: 'vos' | AI: 'affectueux' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'tentimens' -> 'dans'
+
+   [OK] 'auffi' -> 'votre'
+
+   [OK] 'affectueux' -> 'lettre'
+
+   [OK] 'dans' -> 'du'
+
+   [OK] 'votre' -> '4'
+
+   [OK] 'lettre' -> 'juin'
+
+   [OK] 'du' -> 'dernier.—J'ai'
+
+   [OK] '4' -> 'vu'
+
+   [OK] 'juin' -> 'dans'
+
+   [OK] 'dernier.J'ai' -> 'un'
+
+   [OK] 'vu' -> 'imprimé'
+
+   [OK] 'dans' -> 'qui'
+
+   [OK] 'un' -> 'm'est'
+
+   [OK] 'imprimé' -> 'parvenu,'
+
+   [OK] 'qui' -> 'il'
+
+   [OK] 'm'est' -> 'y'
+
+   [OK] 'parvenu' -> 'a'
+
+   [OK] ',' -> 'quelque'
+
+   [OK] 'il' -> 'tems,'
+
+   [OK] 'y' -> 'des'
+
+   [OK] 'a' -> 'détails'
+
+   [OK] 'quelque' -> 'qui'
+
+   [OK] 'tems' -> 'm'ont'
+
+   [OK] ',' -> 'instruit'
+
+   [OK] 'des' -> 'de'
+
+   [OK] 'détails' -> 'la'
+
+   [OK] 'qui' -> 'part'
+
+   [OK] 'm'ont' -> 'aussi'
+
+   [OK] 'inftruit' -> 'honorable'
+
+   [OK] 'de' -> 'qu'active'
+
+   [OK] 'la' -> 'que'
+
+   [OK] 'part' -> 'vous'
+
+   [OK] 'auffi' -> 'avez'
+
+   [OK] 'honorable' -> 'prise'
+
+   [OK] 'qu'active' -> 'à'
+
+   [OK] 'que' -> 'la'
+
+   [OK] 'vous' -> 'révolution'
+
+   [OK] 'avez' -> 'de'
+
+   [OK] 'prife' -> 'France.'
+
+   [OK] 'à' -> 'Les'
+
+   [OK] 'la' -> 'mêmes'
+
+   [OK] 'révolution' -> 'motifs'
+
+   [OK] 'de' -> 'hu-'
+
+   [OK] 'France' -> 'mains'
+
+   [OK] '.' -> 'et'
+
+   [OK] 'Les' -> 'civiques'
+
+   [OK] 'mêmes' -> 'qui'
+
+   [OK] 'motifs' -> 'ont'
+
+   [VETO] Orig: 'hu-' | AI: 'guidé' | Reason: VETO_HYPHEN_LOSS
+
+   [OK] 'mains' -> 'votre'
+
+   [OK] 'et' -> 'conduite'
+
+   [OK] 'civiques' -> 'dans'
+
+   [OK] 'qui' -> 'le'
+
+   [OK] 'ont' -> 'pa.s'
+
+   [OK] 'guidé' -> 'que'
+
+   [OK] 'votre' -> 'vous'
+
+   [OK] 'conduite' -> 'habites,'
+
+   [OK] 'dans' -> 'vous'
+
+   [OK] 'le' -> 'font'
+
+   [OK] 'pa.s' -> 'prendre'
+
+   [OK] 'que' -> 'part'
+
+   [OK] 'vous' -> 'd'une'
+
+   [OK] 'habites' -> 'maniere'
+
+   [OK] ',' -> 'si'
+
+   [OK] 'vous' -> 'agréable'
+
+   [OK] 'font' -> 'pour'
+
+   [OK] 'prendre' -> 'moi'
+
+   [OK] 'part' -> 'a'
+
+   [OK] 'd'une' -> 'la'
+
+   [OK] 'maniere' -> 'révolution'
+
+   [OK] 'si' -> 'de'
+
+   [OK] 'agréable' -> 'Pologne.'
+
+   [OK] 'pour' -> 'Le'
+
+   [OK] 'moi' -> 'succès,'
+
+   [OK] 'a' -> 'de'
+
+   [OK] 'la' -> 'celle'
+
+   [OK] 'révolution' -> 'ci'
+
+   [OK] 'de' -> 'ne'
+
+   [OK] 'Pologne' -> 'me'
+
+   [OK] '.' -> 'satisfait'
+
+   [OK] 'Le' -> 'jamais'
+
+   [OK] 'fuccè' -> 'davantage,'
+
+   [OK] ',' -> 'que'
+
+   [OK] 'de' -> 'quand'
+
+   [OK] 'celle' -> 'je'
+
+   [OK] 'ci' -> 'le'
+
+   [OK] 'ne' -> 'vois'
+
+   [OK] 'me' -> 'applaudi'
+
+   [OK] 'fatisfait' -> 'par'
+
+   [OK] 'jamais' -> 'ceux'
+
+   [OK] 'davantage' -> 'dont'
+
+   [OK] ',' -> 'le'
+
+   [OK] 'que' -> 'mérite'
+
+   [OK] 'quand' -> 's'est'
+
+   [OK] 'je' -> 'conclu.'
+
+   [OK] 'le' -> 'Né'
+
+   [OK] 'vois' -> 'depuis'
+
+   [OK] 'applaudi' -> 'long-tems'
+
+   [OK] 'par' -> 'mon'
+
+   [OK] 'ceux' -> 'estime'
+
+   [OK] 'dont' -> 'particuliere.—'
+
+   [OK] 'le' -> 'Agrées'
+
+   [OK] 'merite' -> 'à'
+
+   [OK] 's'elt' -> 'ce'
+
+   [OK] 'cunci' -> 'titre,'
+
+   [OK] 'Hié' -> 'Monsieur,'
+
+   [OK] 'depuis' -> 'mes'
+
+   [OK] 'long' -> 'remerci-'
+
+   [VETO] Orig: '-' | AI: 'mens' | Reason: VETO_HYPHEN_LOSS
+
+   [OK] 'tems' -> 'les'
+
+   [OK] 'mon' -> 'plus'
+
+   [OK] 'eit' -> 'sinceres'
+
+   [OK] 'me' -> 'pour'
+
+   [OK] 'particuliere' -> 'ce'
+
+   [OK] '.' -> 'que'
+
+   [VETO] Orig: '-' | AI: 'vous' | Reason: VETO_HYPHEN_LOSS
+
+   [OK] 'Agrées' -> 'voulez'
+
+   [OK] 'à' -> 'bien'
+
+   [OK] 'ce' -> 'me'
+
+   [OK] 'titre' -> 'dire'
+
+   [OK] ',' -> 'sur'
+
+   [OK] 'Monsieur' -> 'l'évènement'
+
+   [OK] ',' -> 'qui'
+
+   [OK] 'mes' -> 'promet'
+
+   [OK] 'remerci.nens' -> 'à'
+ Done. (185 changes applied)
+
+Batch 2400-2600 Processing...
+   [OK] 'l'évènement' -> 'l'événement'
+
+   [OK] 'finceres' -> 'sinceres'
+
+   [OK] 'voules' -> 'voulez'
+
+   [OK] 'l'évenement' -> 'l'événement'
+
+   [OK] 'exiftence' -> 'existence'
+
+   [OK] 'affurée' -> 'assurée'
+
+   [OK] 'heureufe' -> 'heureuse'
+
+   [OK] 'dous' -> 'doux'
+
+   [OK] 'Monheur' -> 'Monsieur'
+
+   [OK] 'conftance' -> 'confiance'
+
+   [OK] 'fentimens' -> 'sentimens'
+
+   [OK] 'ves' -> 'vous'
+
+   [OK] 'AUCUSTE' -> 'AUGUSTE'
+
+   [OK] 'tems' -> 'temps'
+
+   [OK] 'aizes' -> 'assises'
+
+   [OK] 'paroitre' -> 'paraître'
+
+   [OK] 'difpofition' -> 'disposition'
+
+   [OK] 'clemence' -> 'clémence'
+
+   [OK] 'qni' -> 'qui'
+
+   [OK] 'ablous' -> 'absous'
+
+   [OK] 'conrre' -> 'contre'
+
+   [OK] 'is' -> 'ces'
+
+   [OK] 'conformiftes' -> 'conformistes'
+
+   [OK] 's'appaifer' -> 's'apaiser'
+
+   [OK] 'Nuus' -> 'Nous'
+
+   [OK] 'oions' -> 'osons'
+
+   [OK] 'nouflatter' -> 'nous'
+
+   [OK] 'que' -> 'flatter'
+
+   [OK] 'la' -> 'que'
+
+   [OK] 'trifte' -> 'la'
+
+   [OK] 'et' -> 'triste'
+
+   [OK] 'récente' -> 'et'
+
+   [OK] 'expérience' -> 'récente'
+
+   [OK] 'de' -> 'expérience'
+
+   [OK] 'la' -> 'de'
+
+   [OK] 'tendance' -> 'la'
+
+   [OK] 'ds' -> 'tendance'
+
+   [OK] 'distinctions' -> 'des'
+
+   [OK] 'civiles' -> 'distinctions'
+
+   [OK] ',' -> 'civiles'
+
+   [OK] 'à' -> ','
+
+   [OK] 'cause' -> 'à'
+
+   [OK] 'des' -> 'cause'
+
+   [OK] 'opinions' -> 'des'
+
+   [OK] 'religieuses' -> 'opinions'
+
+   [OK] ',' -> 'religieuses'
+
+   [OK] 'à' -> ','
+
+   [OK] 'produire' -> 'à'
+
+   [OK] 'l'animolité' -> 'produire'
+
+   [OK] ',' -> 'l'animosité'
+
+   [OK] 'la' -> ','
+
+   [OK] 'haine' -> 'la'
+ Done. (52 changes applied)
+
+Batch 2600-2658 Processing...
+   [VETO] Orig: 'ainsi' | AI: 'ainfi' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'fericufe' -> 'ferieufe'
+ Done. (1 changes applied)
+
+SUCCESS! Saved to 004_02_0_AI_corrected.hocr.
+📊 FINAL STATS:
+   - AI Proposed Changes: 475
+   - Safety Script Blocked: 23
+   - Actual Corrections Applied: 452
+⏱️ Total Execution Time: 0h 5m 20.12s

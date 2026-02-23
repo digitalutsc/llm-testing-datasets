@@ -1,0 +1,66 @@
+// took 15 mins
+ Loading hOCR: 004_02_0.hocr...
+Found 2658 words. Processing in batches of 100...
+
+Batch 0-100 Processing...
+   [OK] 'BROIT' -> 'DROIT'
+
+   [OK] 'feverity' -> 'severity'
+
+   [OK] 'refolutions' -> 'resolutions'
+
+   [OK] 'Foreigne' -> 'Foreigner'
+
+   [OK] 'diftinction' -> 'distinction'
+
+   [OK] 'diftinétions' -> 'distinctions'
+ Done. (6 changes applied)
+
+Batch 100-200 Processing...ERROR:tornado.access:503 POST /v1beta/models/gemini-3-pro-preview:generateContent?%24alt=json%3Benum-encoding%3Dint (::1) 599821.12ms
+
+     ! Server busy (503). Waiting 5s...
+
+   [OK] 'Procia' -> 'Procla-'
+
+   [OK] 'ren' -> 'rem-'
+
+   [OK] 'hail' -> 'shall'
+
+   [OK] 'themfle' -> 'themselves'
+
+   [OK] 'refufe' -> 'refuse'
+
+   [OK] 'i' -> 'is'
+
+   [OK] 'politica' -> 'political'
+
+   [OK] 'ani' -> 'and'
+
+   [OK] 'fubjection' -> 'subjection'
+ Done. (9 changes applied)
+
+Batch 200-300 Processing...
+   [OK] 'domeftic' -> 'domestic'
+
+   [OK] 'thir' -> 'their'
+
+   [OK] 'Auguft' -> 'August'
+
+   [OK] 'publ.fhed' -> 'published'
+
+   [OK] 'ftating' -> 'stating'
+
+   [OK] 'refiding' -> 'residing'
+
+   [OK] 'fubmiffion' -> 'submission'
+
+   [OK] 't' -> 'to'
+
+   [OK] 'fay' -> 'say'
+
+   [OK] 'unde' -> 'under'
+
+   [OK] 'expreffed' -> 'expressed'
+
+   [OK] 'fchedule' -> 'schedule'
+ Done. (12 changes applied)

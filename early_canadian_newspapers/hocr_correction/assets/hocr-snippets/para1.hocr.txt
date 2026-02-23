@@ -1,0 +1,834 @@
+<span class="ocr_carea" id="block_1_3" title="bbox 225 678 716 720">
+<p class="ocr_par" id="par_1_3_0" title="bbox 225 678 716 720">
+    <span class="ocr_line" id="line_1_3_0_0" title="bbox 225 678 716 720; baseline 0 0">
+    <span class="ocrx_word" id="word_1_3_0_0_0" title="bbox 225 678 706 720">
+    LONDON
+    </span>
+    <span class="ocrx_word" id="word_1_3_0_0_1" title="bbox 694 682 716 720">
+    ,
+    </span>
+    </span>
+</p>
+</span>
+<span class="ocr_carea" id="block_1_4" title="bbox 895 171 972 194">
+<p class="ocr_par" id="par_1_4_0" title="bbox 895 171 972 194">
+    <span class="ocr_line" id="line_1_4_0_0" title="bbox 895 171 972 194; baseline 0 0">
+    <span class="ocrx_word" id="word_1_4_0_0_0" title="bbox 931 171 972 193">
+    داد
+    </span>
+    <span class="ocrx_word" id="word_1_4_0_0_1" title="bbox 895 171 925 193">
+    فاق
+    </span>
+    </span>
+</p>
+</span>
+<span class="ocr_carea" id="block_1_5" title="bbox 793 686 1012 723">
+<p class="ocr_par" id="par_1_5_0" title="bbox 793 686 1012 723">
+    <span class="ocr_line" id="line_1_5_0_0" title="bbox 793 686 1012 723; baseline 0 0">
+    <span class="ocrx_word" id="word_1_5_0_0_0" title="bbox 793 686 921 722">
+    APRIL
+    </span>
+    <span class="ocrx_word" id="word_1_5_0_0_1" title="bbox 956 690 1000 723">
+    16
+    </span>
+    <span class="ocrx_word" id="word_1_5_0_0_2" title="bbox 997 690 1012 722">
+    .
+    </span>
+    </span>
+</p>
+</span>
+<span class="ocr_carea" id="block_1_6" title="bbox 175 726 1158 899">
+<p class="ocr_par" id="par_1_6_0" title="bbox 314 728 920 819">
+    <span class="ocr_line" id="line_1_6_0_0" title="bbox 354 729 866 777; baseline 0 0">
+    <span class="ocrx_word" id="word_1_6_0_0_0" title="bbox 354 729 459 768">
+    HOUSE
+    </span>
+    <span class="ocrx_word" id="word_1_6_0_0_1" title="bbox 474 732 509 769">
+    of
+    </span>
+    <span class="ocrx_word" id="word_1_6_0_0_2" title="bbox 520 733 690 774">
+    COMMONS
+    </span>
+    <span class="ocrx_word" id="word_1_6_0_0_3" title="bbox 688 737 697 773">
+    ,
+    </span>
+    <span class="ocrx_word" id="word_1_6_0_0_4" title="bbox 720 737 805 776">
+    April
+    </span>
+    <span class="ocrx_word" id="word_1_6_0_0_5" title="bbox 819 740 859 777">
+    15
+    </span>
+    <span class="ocrx_word" id="word_1_6_0_0_6" title="bbox 853 740 866 776">
+    ,
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_6_0_1" title="bbox 313 774 920 817; baseline 0 0">
+    <span class="ocrx_word" id="word_1_6_0_1_0" title="bbox 313 774 556 812">
+    MESSAGE
+    </span>
+    <span class="ocrx_word" id="word_1_6_0_1_1" title="bbox 575 777 668 813">
+    FROM
+    </span>
+    <span class="ocrx_word" id="word_1_6_0_1_2" title="bbox 682 779 748 814">
+    THE
+    </span>
+    <span class="ocrx_word" id="word_1_6_0_1_3" title="bbox 766 780 904 817">
+    KING
+    </span>
+    <span class="ocrx_word" id="word_1_6_0_1_4" title="bbox 902 782 920 816">
+    .
+    </span>
+    </span>
+</p>
+<p class="ocr_par" id="par_1_6_1" title="bbox 174 815 1158 895">
+    <span class="ocr_line" id="line_1_6_1_0" title="bbox 749 823 1158 887; baseline 0 0">
+    <span class="ocrx_word" id="word_1_6_1_0_0" title="bbox 768 823 818 887">
+    he
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_0_1" title="bbox 938 823 1011 887">
+    had
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_0_2" title="bbox 1031 823 1158 887">
+    Mage
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_6_1_1" title="bbox 174 820 1152 895; baseline 0 0">
+    <span class="ocrx_word" id="word_1_6_1_1_0" title="bbox 174 820 333 882">
+    Reliven
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_1_1" title="bbox 313 823 359 882">
+    to
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_1_2" title="bbox 349 823 425 883">
+    them
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_1_3" title="bbox 427 824 497 884">
+    from
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_1_4" title="bbox 499 826 553 885">
+    his
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_1_5" title="bbox 550 826 662 887">
+    Majely
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_1_6" title="bbox 658 828 669 886">
+    ,
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_1_7" title="bbox 675 828 766 888">
+    which
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_6_1_2" title="bbox 749 823 1158 887; baseline 0 0">
+    <span class="ocrx_word" id="word_1_6_1_2_0" title="bbox 770 830 803 889">
+    he
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_2_1" title="bbox 812 830 921 891">
+    brought
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_2_2" title="bbox 928 833 965 892">
+    up
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_2_3" title="bbox 969 833 998 892">
+    to
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_2_4" title="bbox 1005 834 1049 893">
+    the
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_2_5" title="bbox 1056 834 1145 894">
+    Chair
+    </span>
+    <span class="ocrx_word" id="word_1_6_1_2_6" title="bbox 1137 836 1152 894">
+    ,
+    </span>
+    </span>
+</p>
+</span>
+<span class="ocr_carea" id="block_1_7" title="bbox 79 823 230 887">
+<p class="ocr_par" id="par_1_7_0" title="bbox 79 823 230 887">
+    <span class="ocr_line" id="line_1_7_0_0" title="bbox 79 823 230 887; baseline 0 0">
+    <span class="ocrx_word" id="word_1_7_0_0_0" title="bbox 79 823 230 887">
+    Mto
+    </span>
+    </span>
+</p>
+</span>
+<span class="ocr_carea" id="block_1_8" title="bbox 76 884 1149 950">
+<p class="ocr_par" id="par_1_8_0" title="bbox 76 884 1149 950">
+    <span class="ocr_line" id="line_1_8_0_0" title="bbox 76 884 1149 926; baseline 0 0">
+    <span class="ocrx_word" id="word_1_8_0_0_0" title="bbox 76 885 131 921">
+    and
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_1" title="bbox 137 885 228 921">
+    which
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_2" title="bbox 236 885 314 921">
+    being
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_3" title="bbox 320 886 377 922">
+    read
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_4" title="bbox 391 886 425 922">
+    by
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_5" title="bbox 437 886 480 922">
+    the
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_6" title="bbox 490 886 600 923">
+    Speaker
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_7" title="bbox 611 887 624 923">
+    (
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_8" title="bbox 626 887 668 923">
+    the
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_9" title="bbox 678 887 768 924">
+    Houfe
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_10" title="bbox 766 888 776 924">
+    ,
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_11" title="bbox 794 888 820 924">
+    as
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_12" title="bbox 835 888 906 924">
+    ufual
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_13" title="bbox 903 888 914 924">
+    ,
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_14" title="bbox 931 888 1069 926">
+    uncovered
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_15" title="bbox 1070 889 1083 925">
+    )
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_0_16" title="bbox 1092 889 1149 925">
+    was
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_8_0_1" title="bbox 83 925 233 951; baseline 0 0">
+    <span class="ocrx_word" id="word_1_8_0_1_0" title="bbox 83 925 112 952">
+    as
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_1_1" title="bbox 120 925 219 951">
+    follows
+    </span>
+    <span class="ocrx_word" id="word_1_8_0_1_2" title="bbox 222 924 233 950">
+    :
+    </span>
+    </span>
+</p>
+</span>
+<span class="ocr_carea" id="block_1_9" title="bbox 78 1099 104 1115">
+<p class="ocr_par" id="par_1_9_0" title="bbox 78 1099 104 1115">
+    <span class="ocr_line" id="line_1_9_0_0" title="bbox 78 1099 104 1115; baseline 0 0">
+    <span class="ocrx_word" id="word_1_9_0_0_0" title="bbox 78 1099 104 1115">
+    66
+    </span>
+    </span>
+</p>
+</span>
+<span class="ocr_carea" id="block_1_10" title="bbox 156 957 520 984">
+<p class="ocr_par" id="par_1_10_0" title="bbox 156 957 520 984">
+    <span class="ocr_line" id="line_1_10_0_0" title="bbox 156 957 520 984; baseline 0 0">
+    <span class="ocrx_word" id="word_1_10_0_0_0" title="bbox 156 958 184 990">
+    "
+    </span>
+    <span class="ocrx_word" id="word_1_10_0_0_1" title="bbox 203 956 452 985">
+    GEORGE
+    </span>
+    <span class="ocrx_word" id="word_1_10_0_0_2" title="bbox 476 952 521 983">
+    R.
+    </span>
+    </span>
+</p>
+</span>
+<span class="ocr_carea" id="block_1_11" title="bbox 121 1005 277 1148">
+<p class="ocr_par" id="par_1_11_0" title="bbox 121 1005 277 1148">
+    <span class="ocr_line" id="line_1_11_0_0" title="bbox 121 1005 277 1148; baseline 0 0">
+    <span class="ocrx_word" id="word_1_11_0_0_0" title="bbox 121 1005 277 1148">
+    T
+    </span>
+    </span>
+</p>
+</span>
+<span class="ocr_carea" id="block_1_12" title="bbox 1 990 1150 3611">
+<p class="ocr_par" id="par_1_12_0" title="bbox 76 990 1148 1505">
+    <span class="ocr_line" id="line_1_12_0_0" title="bbox 289 991 1148 1035; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_0_0" title="bbox 289 992 366 1029">
+    HAT
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_0_1" title="bbox 379 992 420 1028">
+    his
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_0_2" title="bbox 433 992 542 1030">
+    Majefly
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_0_3" title="bbox 549 993 637 1031">
+    taking
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_0_4" title="bbox 646 994 702 1031">
+    into
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_0_5" title="bbox 713 994 893 1032">
+    consideration
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_0_6" title="bbox 909 996 953 1033">
+    the
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_0_7" title="bbox 962 996 1074 1034">
+    fapplies
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_0_8" title="bbox 1088 998 1148 1034">
+    that
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_1" title="bbox 304 1028 1147 1067; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_1_0" title="bbox 304 1029 369 1061">
+    have
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_1_1" title="bbox 379 1029 445 1061">
+    been
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_1_2" title="bbox 455 1030 529 1063">
+    given
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_1_3" title="bbox 540 1030 601 1063">
+    with
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_1_4" title="bbox 608 1031 636 1063">
+    so
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_1_5" title="bbox 645 1031 719 1064">
+    much
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_1_6" title="bbox 725 1031 855 1065">
+    liberality
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_1_7" title="bbox 851 1032 862 1064">
+    ,
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_1_8" title="bbox 872 1033 918 1065">
+    and
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_1_9" title="bbox 929 1033 1063 1066">
+    fupported
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_1_10" title="bbox 1083 1034 1147 1066">
+    with
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_2" title="bbox 302 1060 1147 1101; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_2_0" title="bbox 302 1061 365 1095">
+    such
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_2_1" title="bbox 376 1061 529 1097">
+    uncommon
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_2_2" title="bbox 537 1062 648 1098">
+    firmnefs
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_2_3" title="bbox 661 1063 711 1097">
+    and
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_2_4" title="bbox 731 1063 851 1099">
+    fortitude
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_2_5" title="bbox 862 1065 897 1099">
+    by
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_2_6" title="bbox 905 1065 944 1099">
+    his
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_2_7" title="bbox 956 1065 1046 1101">
+    people
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_2_8" title="bbox 1054 1066 1082 1100">
+    in
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_2_9" title="bbox 1100 1066 1147 1101">
+    the
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_3" title="bbox 304 1098 1148 1128; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_3_0" title="bbox 304 1098 402 1128">
+    present
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_3_1" title="bbox 412 1098 537 1128">
+    extensive
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_3_2" title="bbox 543 1098 598 1128">
+    war
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_3_3" title="bbox 594 1098 607 1128">
+    ,
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_3_4" title="bbox 621 1098 793 1128">
+    recommends
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_3_5" title="bbox 804 1098 831 1128">
+    to
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_3_6" title="bbox 846 1098 899 1128">
+    this
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_3_7" title="bbox 907 1098 993 1128">
+    Houfe
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_3_8" title="bbox 1002 1098 1046 1128">
+    the
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_3_9" title="bbox 1065 1098 1148 1128">
+    confi-
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_4" title="bbox 308 1126 1147 1167; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_4_0" title="bbox 308 1126 422 1161">
+    deration
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_4_1" title="bbox 432 1128 465 1161">
+    of
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_4_2" title="bbox 480 1128 515 1161">
+    an
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_4_3" title="bbox 533 1128 647 1163">
+    effectual
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_4_4" title="bbox 668 1129 725 1163">
+    plan
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_4_5" title="bbox 739 1130 771 1163">
+    of
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_4_6" title="bbox 776 1130 909 1165">
+    ceconomy
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_4_7" title="bbox 918 1131 1028 1166">
+    through
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_4_8" title="bbox 1046 1133 1085 1166">
+    all
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_4_9" title="bbox 1100 1133 1147 1166">
+    the
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_5" title="bbox 75 1159 1146 1202; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_5_0" title="bbox 75 1160 96 1194">
+    "
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_5_1" title="bbox 118 1159 242 1195">
+    branches
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_5_2" title="bbox 248 1161 282 1195">
+    of
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_5_3" title="bbox 282 1161 329 1195">
+    the
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_5_4" title="bbox 333 1161 425 1197">
+    Public
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_5_5" title="bbox 436 1162 602 1198">
+    expenditure
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_5_6" title="bbox 605 1164 615 1198">
+    ;
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_5_7" title="bbox 633 1163 739 1199">
+    towards
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_5_8" title="bbox 750 1164 837 1200">
+    which
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_5_9" title="bbox 844 1165 976 1201">
+    important
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_5_10" title="bbox 989 1166 1071 1202">
+    object
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_5_11" title="bbox 1070 1167 1080 1201">
+    ,
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_5_12" title="bbox 1103 1167 1146 1202">
+    his
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_6" title="bbox 78 1194 1146 1236; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_6_0" title="bbox 78 1195 102 1232">
+    "
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_6_1" title="bbox 116 1195 227 1232">
+    Majesty
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_6_2" title="bbox 234 1195 279 1232">
+    has
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_6_3" title="bbox 288 1195 362 1233">
+    taken
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_6_4" title="bbox 371 1196 426 1233">
+    into
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_6_5" title="bbox 433 1196 476 1233">
+    his
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_6_6" title="bbox 485 1196 564 1233">
+    actual
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_6_7" title="bbox 574 1196 753 1235">
+    consideration
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_6_8" title="bbox 761 1197 778 1234">
+    a
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_6_9" title="bbox 789 1197 881 1235">
+    reform
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_6_10" title="bbox 890 1198 941 1235">
+    and
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_6_11" title="bbox 957 1198 1099 1237">
+    regulation
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_6_12" title="bbox 1115 1199 1146 1236">
+    in
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_7" title="bbox 76 1232 1149 1264; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_7_0" title="bbox 76 1232 100 1264">
+    "
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_1" title="bbox 118 1232 160 1264">
+    his
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_2" title="bbox 163 1232 226 1264">
+    civil
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_3" title="bbox 235 1232 415 1264">
+    eftablishment
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_4" title="bbox 417 1232 426 1264">
+    ,
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_5" title="bbox 443 1232 529 1264">
+    which
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_6" title="bbox 538 1232 571 1264">
+    he
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_7" title="bbox 585 1232 641 1264">
+    will
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_8" title="bbox 651 1232 743 1264">
+    fhortly
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_9" title="bbox 753 1232 825 1264">
+    cause
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_10" title="bbox 835 1232 862 1264">
+    to
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_11" title="bbox 874 1232 906 1264">
+    be
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_12" title="bbox 921 1232 973 1264">
+    laid
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_13" title="bbox 992 1232 1079 1264">
+    before
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_7_14" title="bbox 1095 1232 1149 1264">
+    this
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_8" title="bbox 80 1264 1147 1303; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_8_0" title="bbox 80 1265 103 1298">
+    "
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_8_1" title="bbox 120 1265 209 1298">
+    Houfe
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_8_2" title="bbox 206 1265 218 1298">
+    ,
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_8_3" title="bbox 232 1265 342 1299">
+    defiring
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_8_4" title="bbox 349 1266 417 1299">
+    their
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_8_5" title="bbox 424 1266 544 1300">
+    affiftance
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_8_6" title="bbox 552 1267 661 1300">
+    towards
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_8_7" title="bbox 677 1267 794 1301">
+    carrying
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_8_8" title="bbox 799 1268 846 1301">
+    the
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_8_9" title="bbox 857 1268 926 1301">
+    fame
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_8_10" title="bbox 935 1268 1007 1301">
+    more
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_8_11" title="bbox 1017 1269 1082 1302">
+    fully
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_8_12" title="bbox 1089 1269 1147 1302">
+    into
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_9" title="bbox 78 1301 1149 1336; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_9_0" title="bbox 78 1301 105 1336">
+    "
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_1" title="bbox 117 1301 252 1336">
+    execution
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_2" title="bbox 250 1301 262 1336">
+    .
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_3" title="bbox 293 1301 348 1336">
+    His
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_4" title="bbox 352 1301 461 1336">
+    Majefly
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_5" title="bbox 469 1301 512 1336">
+    has
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_6" title="bbox 522 1301 557 1336">
+    no
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_7" title="bbox 563 1301 667 1336">
+    referves
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_8" title="bbox 676 1301 741 1336">
+    with
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_9" title="bbox 747 1301 784 1336">
+    his
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_10" title="bbox 792 1301 885 1336">
+    people
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_11" title="bbox 884 1301 895 1336">
+    ,
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_12" title="bbox 909 1301 945 1336">
+    on
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_13" title="bbox 955 1301 1041 1336">
+    whole
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_9_14" title="bbox 1050 1301 1149 1336">
+    affecti-
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_10" title="bbox 79 1336 1146 1369; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_10_0" title="bbox 79 1336 104 1369">
+    "
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_1" title="bbox 118 1336 166 1369">
+    ons
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_2" title="bbox 173 1336 212 1369">
+    he
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_3" title="bbox 215 1336 274 1369">
+    refts
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_4" title="bbox 278 1336 347 1369">
+    with
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_5" title="bbox 348 1336 367 1369">
+    a
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_6" title="bbox 374 1336 429 1369">
+    fure
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_7" title="bbox 437 1336 545 1369">
+    reliance
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_8" title="bbox 555 1336 583 1369">
+    as
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_9" title="bbox 593 1336 636 1369">
+    the
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_10" title="bbox 646 1336 696 1369">
+    belt
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_11" title="bbox 705 1336 805 1369">
+    fupport
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_12" title="bbox 817 1336 851 1369">
+    of
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_13" title="bbox 860 1336 904 1369">
+    the
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_14" title="bbox 913 1336 969 1369">
+    true
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_15" title="bbox 984 1336 1084 1369">
+    honour
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_10_16" title="bbox 1093 1336 1146 1369">
+    and
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_11" title="bbox 80 1367 1143 1403; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_11_0" title="bbox 80 1367 99 1403">
+    "
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_1" title="bbox 120 1367 222 1403">
+    dignity
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_2" title="bbox 238 1367 273 1403">
+    of
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_3" title="bbox 275 1367 316 1403">
+    his
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_4" title="bbox 323 1367 418 1403">
+    Crown
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_5" title="bbox 430 1367 480 1403">
+    and
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_6" title="bbox 503 1367 677 1403">
+    Government
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_7" title="bbox 686 1367 698 1403">
+    ;
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_8" title="bbox 712 1367 763 1403">
+    and
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_9" title="bbox 775 1367 803 1403">
+    as
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_10" title="bbox 812 1367 874 1403">
+    they
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_11" title="bbox 882 1367 946 1403">
+    have
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_12" title="bbox 957 1367 1067 1403">
+    hitherto
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_11_13" title="bbox 1079 1367 1143 1403">
+    been
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_12" title="bbox 118 1404 1143 1437; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_12_0" title="bbox 118 1404 161 1437">
+    his
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_1" title="bbox 167 1404 281 1437">
+    refource
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_2" title="bbox 296 1404 366 1437">
+    upon
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_3" title="bbox 377 1404 455 1437">
+    every
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_4" title="bbox 468 1404 619 1437">
+    emergency
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_5" title="bbox 616 1404 628 1437">
+    ,
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_6" title="bbox 643 1404 670 1437">
+    so
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_7" title="bbox 678 1404 710 1437">
+    he
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_8" title="bbox 721 1404 819 1437">
+    regards
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_9" title="bbox 829 1404 900 1437">
+    them
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_10" title="bbox 914 1404 944 1437">
+    as
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_11" title="bbox 952 1404 998 1437">
+    the
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_12" title="bbox 1009 1404 1071 1437">
+    most
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_12_13" title="bbox 1080 1404 1143 1437">
+    folid
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_13" title="bbox 80 1439 1124 1474; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_13_0" title="bbox 80 1439 103 1474">
+    "
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_1" title="bbox 119 1439 169 1474">
+    and
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_2" title="bbox 179 1439 259 1474">
+    ftable
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_3" title="bbox 265 1439 371 1474">
+    fecurity
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_4" title="bbox 381 1439 421 1474">
+    for
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_5" title="bbox 427 1439 458 1474">
+    an
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_6" title="bbox 467 1439 619 1474">
+    honourable
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_7" title="bbox 630 1439 752 1474">
+    provifion
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_8" title="bbox 764 1439 803 1474">
+    for
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_9" title="bbox 815 1439 854 1474">
+    his
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_10" title="bbox 862 1439 952 1474">
+    person
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_11" title="bbox 959 1439 1014 1474">
+    and
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_12" title="bbox 1022 1439 1115 1474">
+    family
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_13_13" title="bbox 1110 1439 1124 1474">
+    .
+    </span>
+    </span>
+    <span class="ocr_line" id="line_1_12_0_14" title="bbox 933 1472 1084 1505; baseline 0 0">
+    <span class="ocrx_word" id="word_1_12_0_14_0" title="bbox 933 1473 955 1502">
+    "
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_14_1" title="bbox 971 1473 1012 1503">
+    G.
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_14_2" title="bbox 1029 1474 1067 1505">
+    R.
+    </span>
+    <span class="ocrx_word" id="word_1_12_0_14_3" title="bbox 1064 1475 1084 1504">
+    "
+    </span>
+    </span>
+</p>

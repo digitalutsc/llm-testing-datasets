@@ -1,0 +1,693 @@
+ Loading hOCR: 004_02_0.hocr...
+Found 2658 words. Processing in batches of 200...
+
+Batch 0-200 Processing...
+   [OK] 'DIEL' -> 'DIEU'
+
+   [OK] 'BROIT' -> 'DROIT'
+
+   [OK] 'bas' -> 'has'
+
+   [OK] 'feverity' -> 'severity'
+
+   [OK] 'ft' -> 'st'
+
+   [OK] '46' -> 'I'
+
+   [OK] 'ON' -> 'IN'
+
+   [OK] 'refolutions' -> 'resolutions'
+
+   [OK] 'Foreigne' -> 'Foreigners'
+
+   [OK] 's' -> ''
+
+   [OK] 'diftinction' -> 'distinction'
+
+   [OK] 'diftinétions' -> 'distinctions'
+
+   [OK] 'Procia' -> 'Proclamations'
+
+   [OK] 'mations' -> ''
+
+   [OK] 'ren' -> 'remove'
+
+   [OK] 'ove' -> ''
+
+   [OK] 'hail' -> 'shall'
+
+   [OK] 'themfle' -> 'themselves'
+
+   [OK] 'refufe' -> 'refuse'
+
+   [OK] 'i' -> 'is'
+
+   [OK] 'politica' -> 'political'
+
+   [OK] 'ani' -> 'and'
+
+   [OK] 'fubjection' -> 'subjection'
+ Done. (23 changes applied)
+
+Batch 200-400 Processing...
+   [OK] 'domeftic' -> 'domestic'
+
+   [OK] 'thir' -> 'their'
+
+   [OK] 'Auguft' -> 'August'
+
+   [OK] 'publ.fhed' -> 'published'
+
+   [OK] 'ftating' -> 'stating'
+
+   [OK] 'refiding' -> 'residing'
+
+   [OK] 'fubmiffion' -> 'submission'
+
+   [OK] 't' -> 'to'
+
+   [OK] 'fay' -> 'say'
+
+   [OK] 'unde' -> 'under'
+
+   [OK] 'expreffed' -> 'expressed'
+
+   [OK] 'fchedule' -> 'schedule'
+
+   [OK] 'tee' -> 'see'
+
+   [OK] 'ufual' -> 'usual'
+
+   [OK] 'iflue' -> 'issue'
+
+   [OK] 'va' -> 'va-'
+
+   [OK] 'abfurdities' -> 'absurdities'
+
+   [OK] 'configned' -> 'consigned'
+
+   [OK] 'everlafting' -> 'everlasting'
+
+   [OK] 'Conftitutional' -> 'Constitutional'
+
+   [OK] 'fend' -> 'send'
+
+   [OK] 'tompanions' -> 'companions'
+
+   [OK] 'Af-' -> 'As-'
+
+   [OK] 'fembly' -> 'sembly'
+ Done. (24 changes applied)
+
+Batch 400-600 Processing...
+   [OK] 'promul' -> 'promul-'
+
+   [OK] '.' -> ''
+
+   [OK] 'fupported' -> 'supported'
+
+   [OK] 'Thas' -> 'Thus'
+
+   [OK] 'leaft' -> 'least'
+
+   [OK] 'poft-' -> 'post-'
+
+   [OK] 'Affembly' -> 'Assembly'
+
+   [OK] 'propofition' -> 'proposition'
+
+   [OK] 'Bruffels' -> 'Brussels'
+
+   [OK] 'lefs' -> 'less'
+
+   [OK] 'apprehen' -> 'apprehen-'
+
+   [OK] '.' -> ''
+
+   [OK] 'Give' -> 'five'
+
+   [OK] 'Auftrian' -> 'Austrian'
+
+   [OK] 'expreffed' -> 'expressed'
+
+   [OK] 'difpofition' -> 'disposition'
+
+   [OK] 'againt' -> 'against'
+
+   [OK] 'Darmitadt' -> 'Darmstadt'
+ Done. (18 changes applied)
+
+Batch 600-800 Processing...
+   [OK] 'fubmit' -> 'submit'
+
+   [OK] 'theic' -> 'these'
+
+   [OK] 'teen' -> 'seen'
+
+   [OK] 'meatures' -> 'measures'
+
+   [OK] 'Affemblies' -> 'Assemblies'
+
+   [OK] 'inftituted' -> 'instituted'
+
+   [OK] '.' -> '-'
+
+   [OK] 'felves' -> 'selves'
+
+   [OK] 'difcipline' -> 'discipline'
+
+   [OK] 'till' -> 'still'
+
+   [OK] 'fufpicion' -> 'suspicion'
+
+   [OK] 'fcrupulous' -> 'scrupulous'
+
+   [OK] 'p.ofeffed' -> 'possessed'
+
+   [OK] 'fubordination' -> 'subordination'
+
+   [OK] '.' -> '-'
+
+   [OK] 'refidence' -> 'residence'
+ Done. (16 changes applied)
+
+Batch 800-1000 Processing...
+   [OK] 'fingular' -> 'singular'
+
+   [OK] 'ftri' -> 'stri'
+
+   [OK] 'pofed' -> 'posed'
+
+   [OK] 'Philofophy' -> 'Philosophy'
+
+   [OK] 'Yomewhere' -> 'Somewhere'
+
+   [OK] 'modeft' -> 'modest'
+
+   [OK] 'poft' -> 'post'
+
+   [OK] 'feem' -> 'seem'
+
+   [OK] 'tranferred' -> 'transferred'
+
+   [OK] 'bonor' -> 'honor'
+
+   [OK] 'ifts' -> 'ists'
+
+   [OK] 'fame' -> 'same'
+
+   [OK] 'rife' -> 'rise'
+
+   [OK] 'Lafayete' -> 'Lafayette'
+
+   [OK] 'ferve' -> 'serve'
+
+   [OK] 'difobediance' -> 'disobedience'
+
+   [OK] 'fplendid' -> 'splendid'
+
+   [OK] 'truft' -> 'trust'
+
+   [OK] 'fame' -> 'same'
+ Done. (19 changes applied)
+
+Batch 1000-1200 Processing...
+   [OK] '1' -> 'T'
+
+   [OK] 'Fletinghoff' -> 'Vietinghoff'
+
+   [OK] 'fepa-' -> 'sepa-'
+
+   [OK] 'teftimony' -> 'testimony'
+
+   [OK] 'fentiments' -> 'sentiments'
+
+   [OK] 'feen' -> 'seen'
+
+   [OK] 'lefs' -> 'less'
+
+   [OK] 'fame' -> 'same'
+
+   [OK] 'tisfaction' -> 'satisfaction'
+
+   [OK] 'fee' -> 'see'
+
+   [OK] 'whole' -> 'whose'
+
+   [OK] 'efteem' -> 'esteem'
+ Done. (12 changes applied)
+
+Batch 1200-1400 Processing...
+   [OK] 'fincere' -> 'sincere'
+
+   [OK] 'mifes' -> 'mises'
+
+   [OK] 'exiftence' -> 'existence'
+
+   [OK] 'folid' -> 'solid'
+
+   [OK] 'affure' -> 'assure'
+
+   [OK] 'conftancy' -> 'constancy'
+
+   [OK] 'fentiments' -> 'sentiments'
+
+   [OK] 'expreffed' -> 'expressed'
+
+   [OK] 'Aoûr' -> 'Août'
+
+   [OK] 'I' -> 'Il'
+
+   [OK] 'd'espagne' -> 'd'Espagne'
+
+   [OK] 'vélaché' -> 'relaché'
+
+   [OK] 'févérité' -> 'sévérité'
+
+   [OK] 'lex' -> 'le'
+
+   [OK] 'dese' -> '1er'
+
+   [OK] 'Meis' -> 'mois'
+
+   [OK] 'We' -> 'a'
+
+   [OK] 'a' -> ''
+
+   [OK] 'fuivante' -> 'suivante'
+
+   [OK] 'prifes' -> 'prises'
+
+   [OK] 'faifant' -> 'faisant'
+
+   [OK] 'diftinction' -> 'distinction'
+
+   [OK] 'diftinctions' -> 'distinctions'
+
+   [OK] 'so' -> '20'
+
+   [OK] 'etag' -> 'et'
+
+   [OK] 'tte' -> 'esté'
+
+   [OK] 'doure' -> 'doute'
+
+   [OK] 'favoir' -> 'savoir'
+
+   [OK] 'tou' -> 'tous'
+
+   [OK] 'préfen' -> 'présen'
+
+   [OK] 'ferment' -> 'serment'
+
+   [OK] 'refuferont' -> 'refuseront'
+
+   [OK] 'prêters' -> 'prêter'
+ Done. (33 changes applied)
+
+Batch 1400-1600 Processing...
+   [OK] 'Nailfance' -> 'Naissance'
+
+   [OK] 'polf' -> 'polis'
+
+   [OK] 'iques' -> 'tiques'
+
+   [OK] 'fujerion' -> 'sujetion'
+
+   [OK] 'stique' -> 'mestique'
+
+   [OK] 'cunation' -> 'clamation'
+
+   [OK] 'po' -> 'por'
+
+   [OK] 'ta' -> 'tant'
+
+   [OK] 't' -> ''
+
+   [OK] 'ferme' -> 'fermen'
+
+   [OK] 'dite' -> 'qualité'
+
+   [OK] 'fera' -> 'sera'
+
+   [OK] 'fimple' -> 'simple'
+
+   [OK] 'foumillion' -> 'soumission'
+
+   [OK] 'fernt' -> 'seront'
+
+   [OK] 'dirunt' -> 'diront'
+
+   [OK] 'a'ecriront' -> 'n'écriront'
+
+   [OK] 'chofe' -> 'chose'
+
+   [OK] 'jer-' -> 'ser-'
+
+   [OK] 'fedule' -> 'schedule'
+
+   [OK] 'Aina' -> 'Ainsi'
+
+   [OK] 'fue' -> 'l'issue'
+
+   [OK] 'abfurdités' -> 'absurdités'
+
+   [OK] 'foumettre' -> 'soumettre'
+
+   [OK] 'anathématite' -> 'anathématisé'
+
+   [OK] 'configné' -> 'consigné'
+
+   [OK] 'conftitutio-' -> 'constitutio-'
+
+   [OK] 'net' -> 'nel'
+
+   [OK] 'adiité' -> 'assisté'
+
+   [OK] 'confecration' -> 'consécration'
+ Done. (30 changes applied)
+
+Batch 1600-1800 Processing...
+   [OK] 'seable' -> 'semble'
+
+   [VETO] Orig: 'résorme' | AI: 'réforme' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'l'Eglife' -> 'l'Eglise'
+
+   [OK] 'promulgé' -> 'promulge'
+
+   [OK] 'fou-' -> 'sou-'
+
+   [OK] 'renu' -> 'tenu'
+
+   [OK] 'obci' -> 'obei'
+
+   [OK] 'Aina' -> 'Ainsi'
+
+   [OK] 'faint' -> 'saint'
+
+   [OK] 'cavoyer' -> 'envoyer'
+
+   [OK] 'quarcs' -> 'quarts'
+
+   [OK] 'bioc' -> 'bloc'
+
+   [OK] 'femble' -> 'semble'
+
+   [OK] 'abielu.ment' -> 'absolument'
+
+   [OK] 'abandonnce' -> 'abandonnée'
+
+   [OK] 'prefque' -> 'presque'
+
+   [OK] 'i' -> 'l''
+
+   [OK] 'fembice' -> 'semblée'
+
+   [OK] 'font' -> 'sont'
+
+   [OK] 'ation' -> 'iation'
+
+   [OK] 'penie' -> 'pense'
+
+   [OK] 'pro' -> 'pro-'
+
+   [OK] 'pofition' -> 'position'
+
+   [OK] 'faitoit' -> 'faisoit'
+
+   [OK] 'qu'en' -> 'qu'on'
+
+   [OK] 'puloit' -> 'posoit'
+
+   [OK] 'offer' -> 'offrir'
+
+   [OK] 'Aut' -> 'Août'
+
+   [OK] 'Antrichiennes' -> 'Autrichiennes'
+
+   [OK] 'Pas' -> 'Bas'
+
+   [OK] 'caules' -> 'causes'
+
+   [OK] 'guérie' -> 'guerre'
+
+   [OK] 'a' -> 'avant'
+
+   [OK] 'ant' -> 'de'
+
+   [OK] 'foidats' -> 'soldats'
+ Done. (34 changes applied)
+
+Batch 1800-2000 Processing...
+   [OK] 'Darmtadt' -> 'Darmstadt'
+
+   [OK] 'enfuite' -> 'ensuite'
+
+   [OK] 'cames' -> 'casses'
+
+   [OK] 'dilant' -> 'disant'
+
+   [OK] 'fouffriroient' -> 'souffriroient'
+
+   [OK] 'plu' -> 'plus'
+
+   [OK] 'batus' -> 'battus'
+
+   [OK] 'accordce' -> 'accordee'
+
+   [OK] ''' -> 'n'eussent'
+
+   [OK] 'cue' -> 'achevé'
+
+   [OK] 'tive' -> ''
+
+   [OK] 'l'organifat' -> 'l'organisat'
+
+   [OK] 'on' -> 'ion'
+
+   [OK] 'Françoife' -> 'Françoise'
+
+   [OK] 'dé.iberuient' -> 'déliberoient'
+
+   [OK] 'inclures' -> 'mesures'
+
+   [OK] 'foldats' -> 'soldats'
+
+   [OK] 'ailemb' -> 'assembl'
+
+   [OK] 'ces' -> 'ées'
+
+   [OK] 'institus' -> 'institué'
+
+   [OK] 'onfeil' -> 'conseil'
+
+   [OK] 'difcipline' -> 'discipline'
+
+   [OK] 'vant' -> 'devant'
+
+   [OK] 'étre' -> 'être'
+
+   [OK] 'fingul-' -> 'singul-'
+
+   [OK] 'frictement' -> 'strictement'
+
+   [OK] 'impotes' -> 'imposés'
+
+   [OK] 'eiprit' -> 'esprit'
+
+   [OK] 'philofophie' -> 'philosophie'
+
+   [OK] 'enfeigné' -> 'enseigné'
+
+   [OK] 'prétent' -> 'présent'
+
+   [OK] 'ficcle' -> 'siècle'
+
+   [OK] 'Butke' -> 'Burke'
+
+   [VETO] Orig: 'qualiser' | AI: 'qualifier' | Reason: VETO_REVERSE_S_TO_F
+
+   [OK] 'modefte' -> 'modeste'
+
+   [OK] 'd'infamous' -> 'd'infâme'
+
+   [OK] 'ement' -> 'ment'
+
+   [OK] 'poftes' -> 'postes'
+
+   [OK] 'eftimés' -> 'estimés'
+ Done. (38 changes applied)
+
+Batch 2000-2200 Processing...
+   [OK] 'font' -> 'sont'
+
+   [OK] 'fidélement' -> 'fidèlement'
+
+   [OK] 'Enun' -> 'En un'
+
+   [OK] 'feuolent' -> 'seuloient'
+
+   [OK] 'penfent' -> 'pensent'
+
+   [OK] 'confifte' -> 'consiste'
+
+   [OK] 'erut' -> 'crut'
+
+   [OK] 'fervir' -> 'servir'
+
+   [OK] 'caule' -> 'cause'
+
+   [OK] 'def-' -> 'des-'
+
+   [OK] 'obéillance' -> 'obéissance'
+
+   [OK] 'réligna' -> 'résigna'
+
+   [OK] 'f'enrôla' -> 's'enrôla'
+
+   [OK] 'limple' -> 'simple'
+
+   [OK] 'foldat' -> 'soldat'
+
+   [OK] 'fentinelle' -> 'sentinelle'
+
+   [OK] 'foit' -> 'soit'
+
+   [OK] 'fufpicions' -> 'suspicion'
+
+   [OK] 'die' -> 'nie'
+
+   [OK] 'feru' -> 'scru-'
+
+   [OK] 'fubordination' -> 'subordination'
+ Done. (21 changes applied)
+
+Batch 2200-2400 Processing...
+   [OK] 'fimple' -> 'simple'
+
+   [OK] 'foldat' -> 'soldat'
+
+   [OK] 'ctoit' -> 'étoit'
+
+   [OK] 'eftimé' -> 'estimé'
+
+   [OK] 'réa-' -> 'réfi-'
+
+   [OK] 'Riponje' -> 'Reponse'
+
+   [OK] 'Varfovie' -> 'Varsovie'
+
+   [OK] 'feparation' -> 'separation'
+
+   [OK] 'tentimens' -> 'sentimens'
+
+   [OK] 'auffi' -> 'aussi'
+
+   [OK] 'dernier.J'ai' -> 'dernier.—J'ai'
+
+   [OK] 'inftruit' -> 'instruit'
+
+   [OK] 'auffi' -> 'aussi'
+
+   [OK] 'prife' -> 'prise'
+
+   [OK] 'pa.s' -> 'païs'
+
+   [OK] 'fuccè' -> 'succès'
+
+   [OK] 'fatisfait' -> 'satisfait'
+
+   [OK] 's'elt' -> 's'est'
+
+   [OK] 'cunci' -> 'conci-'
+
+   [OK] 'Hié' -> 'lié'
+ Done. (20 changes applied)
+
+Batch 2400-2600 Processing...
+   [OK] 'eit' -> 'est'
+
+   [OK] 'remerci.nens' -> 'remerciemens'
+
+   [OK] 'finceres' -> 'sinceres'
+
+   [OK] 'voules' -> 'voulez'
+
+   [OK] 'exiftence' -> 'existence'
+
+   [OK] 'affurée' -> 'assurée'
+
+   [OK] 'heureufe' -> 'heureuse'
+
+   [OK] '11' -> 'Il'
+
+   [OK] 'dous' -> 'doux'
+
+   [OK] 'Monheur' -> 'Monsieur'
+
+   [OK] 'conftance' -> 'constance'
+
+   [OK] 'fentimens' -> 'sentimens'
+
+   [OK] 'ves' -> 'vus'
+
+   [OK] 'AUCUSTE' -> 'AUGUSTE'
+
+   [OK] 'aizes' -> 'assises'
+
+   [OK] 'personne' -> 'personnes'
+
+   [OK] 'difpofition' -> 'disposition'
+
+   [OK] 'qni' -> 'qui'
+
+   [OK] 'ablous' -> 'absous'
+
+   [OK] 'conrre' -> 'contre'
+
+   [OK] 'is' -> 'les'
+
+   [OK] 'conformiftes' -> 'conformistes'
+
+   [OK] 'fait' -> 'fasse'
+
+   [OK] 's'appaifer' -> 's'appaiser'
+
+   [OK] 'Nuus' -> 'Nous'
+
+   [OK] 'oions' -> 'osons'
+
+   [OK] 'nouflatter' -> 'nousflatter'
+
+   [OK] 'trifte' -> 'triste'
+
+   [OK] 'ds' -> 'des'
+
+   [OK] 'l'animolité' -> 'l'animosité'
+ Done. (30 changes applied)
+
+Batch 2600-2658 Processing...
+   [OK] 'pas' -> 'pas-'
+
+   [OK] 'foit' -> 'soit'
+
+   [OK] 'fufceptib.e' -> 'susceptible'
+
+   [OK] 'cunndération' -> 'considération'
+
+   [OK] ''' -> ''
+
+   [OK] 'fericufe' -> 'serieuse'
+
+   [OK] 'propoier' -> 'proposer'
+
+   [OK] 'dat.nétions' -> 'distinctions'
+ Done. (8 changes applied)
+
+SUCCESS! Saved to 004_02_0_AI_corrected.hocr.
+📊 FINAL STATS:
+   - AI Proposed Changes: 328
+   - Safety Script Blocked: 2
+   - Actual Corrections Applied: 326
+⏱️ Total Execution Time: 0h 14m 33.97s

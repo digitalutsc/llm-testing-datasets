@@ -1,0 +1,12 @@
+Batch Size: 100
+Temperature: 0.0
+Models: ['gemini-3-flash-preview', 'gemini-3-pro-preview']
+
+
+Comparison V2 includes the following changes:
+Approach 1A: 
+    - change temperature to 0.0
+    - apply thinking config (flash: MINIMAL; pro: LOW)
+Approach 1B:
+    - approach 1A plus the following
+    - change to giving entire HOCR content instead of giving JSON

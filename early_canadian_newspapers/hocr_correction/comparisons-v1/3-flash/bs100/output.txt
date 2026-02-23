@@ -1,0 +1,88 @@
+Loading hOCR: 004_02_0.hocr...
+Found 2658 words. Processing in batches of 100...
+
+Batch 0-100 Processing... Done. (7 changes applied)
+
+Batch 100-200 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 200-300 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 300-400 Processing... Done. (14 changes applied)
+
+Batch 400-500 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 500-600 Processing... Done. (9 changes applied)
+
+Batch 600-700 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 700-800 Processing... Done. (6 changes applied)
+
+Batch 800-900 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 900-1000 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 1000-1100 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 1100-1200 Processing... Done. (2 changes applied)
+
+Batch 1200-1300 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 1300-1400 Processing... Done. (17 changes applied)
+
+Batch 1400-1500 Processing... Done. (9 changes applied)
+
+Batch 1500-1600 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 1600-1700 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 1700-1800 Processing... Done. (16 changes applied)
+
+Batch 1800-1900 Processing... Done. (21 changes applied)
+
+Batch 1900-2000 Processing... Done. (16 changes applied)
+
+Batch 2000-2100 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 2100-2200 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 2200-2300 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 2300-2400 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 2400-2500 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 2500-2600 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 2600-2658 Processing... Error: 'list' object has no attribute 'items'
+
+SUCCESS! Saved to 004_02_0_AI_corrected.hocr.
+📊 FINAL STATS:
+- AI Proposed Changes: 117
+- Safety Script Blocked: 0
+- Actual Corrections Applied: 117
+⏱️ Total Execution Time: 2h 13m 53.52s
+
+
+// new: interrupted after a couple of changes: (took 15 mins)
+Loading hOCR: 004_02_0.hocr...
+Found 2658 words. Processing in batches of 100...
+
+Batch 0-100 Processing...
+   [OK] 'DIEL' -> 'DIEU'
+
+   [OK] 'BROIT' -> 'DROIT'
+
+   [OK] 'feverity' -> 'severity'
+
+   [OK] 'refolutions' -> 'resolutions'
+
+   [OK] 'diftinction' -> 'distinction'
+
+   [OK] 'diftinétions' -> 'distinctions'
+ Done. (6 changes applied)
+
+Batch 100-200 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 200-300 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 300-400 Processing...

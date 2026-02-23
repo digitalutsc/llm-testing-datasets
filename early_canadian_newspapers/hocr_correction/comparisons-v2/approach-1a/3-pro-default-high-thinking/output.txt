@@ -1,0 +1,275 @@
+ Connected to Gemini 3.0 Pro Preview.
+--- 🚀 STARTING BATCH PIPELINE ---
+Saving to: MASTER_Correction_Dictionary.csv
+
+Processing: 004_02_0.hocr...
+Found 2658 words. Processing in batches of 100...
+
+Batch 0-100 Processing... Done. (12 changes applied)
+
+Batch 100-200 Processing... Done. (9 changes applied)
+
+Batch 200-300 Processing... Done. (12 changes applied)
+
+Batch 300-400 Processing... Done. (12 changes applied)
+
+Batch 400-500 Processing... Done. (7 changes applied)
+
+Batch 500-600 Processing... Done. (10 changes applied)
+
+Batch 600-700 Processing... Done. (12 changes applied)
+
+Batch 700-800 Processing... Done. (8 changes applied)
+
+Batch 800-900 Processing... Done. (12 changes applied)
+
+Batch 900-1000 Processing... Done. (9 changes applied)
+
+Batch 1000-1100 Processing... Done. (7 changes applied)
+
+Batch 1100-1200 Processing... Done. (5 changes applied)
+
+Batch 1200-1300 Processing... Done. (16 changes applied)
+
+Batch 1300-1400 Processing...
+   [VETO] Orig: '-' | AI: 'e' | Reason: VETO_HYPHEN_LOSS
+ Done. (20 changes applied)
+
+Batch 1400-1500 Processing... Done. (14 changes applied)
+
+Batch 1500-1600 Processing... Error: 'list' object has no attribute 'items'
+
+Batch 1600-1700 Processing...
+   [VETO] Orig: 'résorme' | AI: 'réforme' | Reason: VETO_REVERSE_S_TO_F
+ Done. (23 changes applied)
+
+Batch 1700-1800 Processing... Done. (19 changes applied)
+
+Batch 1800-1900 Processing... Done. (23 changes applied)
+
+Batch 1900-2000 Processing...
+   [VETO] Orig: 'qualiser' | AI: 'qualifier' | Reason: VETO_REVERSE_S_TO_F
+ Done. (19 changes applied)
+
+Batch 2000-2100 Processing... Done. (13 changes applied)
+
+Batch 2100-2200 Processing...---------------------------------------------------------------------------
+KeyboardInterrupt                         Traceback (most recent call last)
+/tmp/ipython-input-2833288463.py in <cell line: 0>()
+    373 
+    374 if __name__ == "__main__":
+--> 375     run_batch_pipeline()
+
+29 frames/tmp/ipython-input-2833288463.py in run_batch_pipeline()
+    359 
+    360             try:
+--> 361                 process_single_pair(hocr, img, writer)
+    362             except Exception as e:
+    363                 print(f"❌ Error on {hocr}: {e}")
+
+/tmp/ipython-input-2833288463.py in process_single_pair(hocr_file, img_file, csv_writer)
+    261         # 3. Send to Gemini
+    262         # The new SDK handles raw bytes with mime_type effectively in a list
+--> 263         response = generate_with_retry([
+    264             prompt_text,
+    265             types.Part.from_bytes(data=img_bytes, mime_type='image/jpeg')
+
+/tmp/ipython-input-2833288463.py in generate_with_retry(contents, retries)
+     74     for attempt in range(retries):
+     75         try:
+---> 76             return client.models.generate_content(
+     77                 model=MODEL_ID,
+     78                 contents=contents,
+
+/usr/local/lib/python3.12/dist-packages/google/genai/models.py in generate_content(self, model, contents, config)
+   5472     while remaining_remote_calls_afc > 0:
+   5473       i += 1
+-> 5474       response = self._generate_content(
+   5475           model=model, contents=contents, config=parsed_config
+   5476       )
+
+/usr/local/lib/python3.12/dist-packages/google/genai/models.py in _generate_content(self, model, contents, config)
+   4212     request_dict = _common.encode_unserializable_types(request_dict)
+   4213 
+-> 4214     response = self._api_client.request(
+   4215         'post', path, request_dict, http_options
+   4216     )
+
+/usr/local/lib/python3.12/dist-packages/google/genai/_api_client.py in request(self, http_method, path, request_dict, http_options)
+   1394         http_method, path, request_dict, http_options
+   1395     )
+-> 1396     response = self._request(http_request, http_options, stream=False)
+   1397     response_body = (
+   1398         response.response_stream[0] if response.response_stream else ''
+
+/usr/local/lib/python3.12/dist-packages/google/genai/_api_client.py in _request(self, http_request, http_options, stream)
+   1230         return retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+   1231 
+-> 1232     return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+   1233 
+   1234   async def _async_request_once(
+
+/usr/local/lib/python3.12/dist-packages/tenacity/__init__.py in __call__(self, fn, *args, **kwargs)
+    468         retry_state = RetryCallState(retry_object=self, fn=fn, args=args, kwargs=kwargs)
+    469         while True:
+--> 470             do = self.iter(retry_state=retry_state)
+    471             if isinstance(do, DoAttempt):
+    472                 try:
+
+/usr/local/lib/python3.12/dist-packages/tenacity/__init__.py in iter(self, retry_state)
+    369         result = None
+    370         for action in self.iter_state.actions:
+--> 371             result = action(retry_state)
+    372         return result
+    373 
+
+/usr/local/lib/python3.12/dist-packages/tenacity/__init__.py in <lambda>(rs)
+    391     def _post_retry_check_actions(self, retry_state: "RetryCallState") -> None:
+    392         if not (self.iter_state.is_explicit_retry or self.iter_state.retry_run_result):
+--> 393             self._add_action_func(lambda rs: rs.outcome.result())
+    394             return
+    395 
+
+/usr/lib/python3.12/concurrent/futures/_base.py in result(self, timeout)
+    447                     raise CancelledError()
+    448                 elif self._state == FINISHED:
+--> 449                     return self.__get_result()
+    450 
+    451                 self._condition.wait(timeout)
+
+/usr/lib/python3.12/concurrent/futures/_base.py in __get_result(self)
+    399         if self._exception:
+    400             try:
+--> 401                 raise self._exception
+    402             finally:
+    403                 # Break a reference cycle with the exception in self._exception
+
+/usr/local/lib/python3.12/dist-packages/tenacity/__init__.py in __call__(self, fn, *args, **kwargs)
+    471             if isinstance(do, DoAttempt):
+    472                 try:
+--> 473                     result = fn(*args, **kwargs)
+    474                 except BaseException:  # noqa: B902
+    475                     retry_state.set_exception(sys.exc_info())  # type: ignore[arg-type]
+
+/usr/local/lib/python3.12/dist-packages/google/genai/_api_client.py in _request_once(self, http_request, stream)
+   1200       )
+   1201     else:
+-> 1202       response = self._httpx_client.request(
+   1203           method=http_request.method,
+   1204           url=http_request.url,
+
+/usr/local/lib/python3.12/dist-packages/httpx/_client.py in request(self, method, url, content, data, files, json, params, headers, cookies, auth, follow_redirects, timeout, extensions)
+    823             extensions=extensions,
+    824         )
+--> 825         return self.send(request, auth=auth, follow_redirects=follow_redirects)
+    826 
+    827     @contextmanager
+
+/usr/local/lib/python3.12/dist-packages/httpx/_client.py in send(self, request, stream, auth, follow_redirects)
+    912         auth = self._build_request_auth(request, auth)
+    913 
+--> 914         response = self._send_handling_auth(
+    915             request,
+    916             auth=auth,
+
+/usr/local/lib/python3.12/dist-packages/httpx/_client.py in _send_handling_auth(self, request, auth, follow_redirects, history)
+    940 
+    941             while True:
+--> 942                 response = self._send_handling_redirects(
+    943                     request,
+    944                     follow_redirects=follow_redirects,
+
+/usr/local/lib/python3.12/dist-packages/httpx/_client.py in _send_handling_redirects(self, request, follow_redirects, history)
+    977                 hook(request)
+    978 
+--> 979             response = self._send_single_request(request)
+    980             try:
+    981                 for hook in self._event_hooks["response"]:
+
+/usr/local/lib/python3.12/dist-packages/httpx/_client.py in _send_single_request(self, request)
+   1012 
+   1013         with request_context(request=request):
+-> 1014             response = transport.handle_request(request)
+   1015 
+   1016         assert isinstance(response.stream, SyncByteStream)
+
+/usr/local/lib/python3.12/dist-packages/httpx/_transports/default.py in handle_request(self, request)
+    248         )
+    249         with map_httpcore_exceptions():
+--> 250             resp = self._pool.handle_request(req)
+    251 
+    252         assert isinstance(resp.stream, typing.Iterable)
+
+/usr/local/lib/python3.12/dist-packages/httpcore/_sync/connection_pool.py in handle_request(self, request)
+    254 
+    255             self._close_connections(closing)
+--> 256             raise exc from None
+    257 
+    258         # Return the response. Note that in this case we still have to manage
+
+/usr/local/lib/python3.12/dist-packages/httpcore/_sync/connection_pool.py in handle_request(self, request)
+    234                 try:
+    235                     # Send the request on the assigned connection.
+--> 236                     response = connection.handle_request(
+    237                         pool_request.request
+    238                     )
+
+/usr/local/lib/python3.12/dist-packages/httpcore/_sync/connection.py in handle_request(self, request)
+    101             raise exc
+    102 
+--> 103         return self._connection.handle_request(request)
+    104 
+    105     def _connect(self, request: Request) -> NetworkStream:
+
+/usr/local/lib/python3.12/dist-packages/httpcore/_sync/http11.py in handle_request(self, request)
+    134                 with Trace("response_closed", logger, request) as trace:
+    135                     self._response_closed()
+--> 136             raise exc
+    137 
+    138     # Sending the request...
+
+/usr/local/lib/python3.12/dist-packages/httpcore/_sync/http11.py in handle_request(self, request)
+    104                     headers,
+    105                     trailing_data,
+--> 106                 ) = self._receive_response_headers(**kwargs)
+    107                 trace.return_value = (
+    108                     http_version,
+
+/usr/local/lib/python3.12/dist-packages/httpcore/_sync/http11.py in _receive_response_headers(self, request)
+    175 
+    176         while True:
+--> 177             event = self._receive_event(timeout=timeout)
+    178             if isinstance(event, h11.Response):
+    179                 break
+
+/usr/local/lib/python3.12/dist-packages/httpcore/_sync/http11.py in _receive_event(self, timeout)
+    215 
+    216             if event is h11.NEED_DATA:
+--> 217                 data = self._network_stream.read(
+    218                     self.READ_NUM_BYTES, timeout=timeout
+    219                 )
+
+/usr/local/lib/python3.12/dist-packages/httpcore/_backends/sync.py in read(self, max_bytes, timeout)
+    126         with map_exceptions(exc_map):
+    127             self._sock.settimeout(timeout)
+--> 128             return self._sock.recv(max_bytes)
+    129 
+    130     def write(self, buffer: bytes, timeout: float | None = None) -> None:
+
+/usr/lib/python3.12/ssl.py in recv(self, buflen, flags)
+   1230                     "non-zero flags not allowed in calls to recv() on %s" %
+   1231                     self.__class__)
+-> 1232             return self.read(buflen)
+   1233         else:
+   1234             return super().recv(buflen, flags)
+
+/usr/lib/python3.12/ssl.py in read(self, len, buffer)
+   1103                 return self._sslobj.read(len, buffer)
+   1104             else:
+-> 1105                 return self._sslobj.read(len)
+   1106         except SSLError as x:
+   1107             if x.args[0] == SSL_ERROR_EOF and self.suppress_ragged_eofs:
+
+KeyboardInterrupt: 
+
+// took more than 2.5 hours
