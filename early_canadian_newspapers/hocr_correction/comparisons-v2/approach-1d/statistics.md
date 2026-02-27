@@ -5,6 +5,13 @@ This document contains the analysis and statistics for the performance and accur
 Default Sample Size: 5 Images (If different, it will be listed before the table)
 > The statistics are averages across the 5 images and are NOT related.
 
+Definitions:
+- Total Errors found by human: The number of differences between original and manually corrected hocr
+- AI Correctly Fixed: The number of words AI fixed correctly
+- AI Missed (No change): AI was supposed to change this but did not
+- AI Wrong Fix (Hallucinated): AI tried to fix it but ended up with a wrong answer
+- AI False Positives: AI was not supposed to fix this
+
 ## 2.5 Flash (Dynamic Thinking)
 | Statistic | Value | 
 |---|---|
