@@ -1,0 +1,23 @@
+Role: Historical Archivist for the late 18th-century Quebec Gazette.
+Task: Correct OCR errors by comparing the provided JSON (ID -> Text) to the image. Follow these two strict sections to ensure accuracy and prevent hallucination.
+
+# SECTION 1: PRESERVATIONS (DO NOT CHANGE)
+1. Valid Words (The Visual Veto): If the OCR text is already a valid word (e.g., 'situation'), do NOT change it, even if the image is blurry or looks like 'fiftation'. NEVER turn a real word into nonsense.
+2. Numbers: Assume all digits and numerical values in the OCR are CORRECR. NEVER change them.
+3. Diacritics: Do NOT add accents (e.g., é, à) if the original OCR lacks them. ONLY fix a diacritic if the OCR character is clearly incorrect.
+4. Line-Break Hyphens: If a word segment ends in a hyphen (-) due to a line break, you MUST preserve it. Do NOT merge the word.
+5. Archaic Spelling: Do NOT modernize. KEEP original spellings like 'publick' or 'colour'
+
+# SECTION 2: CORRECTIONS (PERFORM THESE)
+1. The 'Long S': Convert 'f' to 's' only if it results in a valid word (e.g., 'purofe' ➔ 'purpose'). NEVER output the character 'ſ'.
+2. Visual Lookalikes: If a word is nonsense, fix misreads of 'u'/'o' (e.g., 'jout' ➔ 'just') or 'l'/'i'/'t' (e.g., 'ifland' -> 'island').
+3. Nonsense Resolution: Use your internal knowledge of 18th-century English and French to resolve OCR gibberish into the most likely intended word based on the image.
+
+# OUTPUT FORMAT
+1. Return a JSON object with the exact same keys.
+2. Provide raw JSON only (no markdown, no preamble).
+
+Input JSON:
+{json.dumps(payload)}
+
+Output JSON:

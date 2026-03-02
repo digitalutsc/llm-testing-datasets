@@ -1,0 +1,2 @@
+The tests are conducted using Gemini 3 Flash with a MEDIUM thinking level.
+The image used was 006_01_1
