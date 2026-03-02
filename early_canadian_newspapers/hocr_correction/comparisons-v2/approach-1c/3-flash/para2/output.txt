@@ -1,0 +1,5 @@
+Connected to Gemini 3.0 Flash Preview.
+
+--- Testing Single Call (HOCR as File) ---
+Sending Image and HOCR file to Gemini...
+Done. Applied 0 changes.

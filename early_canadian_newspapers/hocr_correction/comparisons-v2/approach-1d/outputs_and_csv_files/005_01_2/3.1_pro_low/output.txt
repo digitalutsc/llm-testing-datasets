@@ -1,0 +1,136 @@
+Connected to Gemini 3.1 Pro Preview.
+--- 🚀 STARTING BATCH PIPELINE ---
+Saving to: MASTER_Correction_Dictionary.csv
+
+Processing: 005_01_2.hocr...
+Found 3380 words. Processing in batches of 100...
+
+Batch 0-100 Processing...
+   [VETO] Orig: 'Holipties' | AI: 'of' | Reason: VETO_REVERSE_S_TO_F
+ Done. (66 changes applied)
+
+Batch 100-200 Processing...
+   [VETO] Orig: 'ano-' | AI: 'ther,' | Reason: VETO_HYPHEN_LOSS
+ Done. (68 changes applied)
+
+Batch 200-300 Processing...
+   [VETO] Orig: 'is' | AI: 'following' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: '-' | AI: 'mented' | Reason: VETO_HYPHEN_LOSS
+ Done. (46 changes applied)
+
+Batch 300-400 Processing...
+   [VETO] Orig: 'Mar-' | AI: 'shal' | Reason: VETO_HYPHEN_LOSS
+
+   [VETO] Orig: 'was' | AI: 'of' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: '-' | AI: 'The' | Reason: VETO_HYPHEN_LOSS
+ Done. (40 changes applied)
+
+Batch 400-500 Processing...
+   [VETO] Orig: 'thedeps' | AI: 'left' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: 'his' | AI: 'for' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: 'ar-' | AI: 'of' | Reason: VETO_HYPHEN_LOSS
+
+   [VETO] Orig: 'days' | AI: 'left' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: 'Naum-' | AI: 'at' | Reason: VETO_HYPHEN_LOSS
+ Done. (82 changes applied)
+
+Batch 500-600 Processing...
+   [VETO] Orig: 'petitions' | AI: 'of' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: 'mancey-' | AI: 'vre' | Reason: VETO_HYPHEN_LOSS
+
+   [VETO] Orig: 'pallages' | AI: 'of' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: 'ene-' | AI: 'my' | Reason: VETO_HYPHEN_LOSS
+ Done. (37 changes applied)
+
+Batch 600-700 Processing...
+   [VETO] Orig: 'as' | AI: 'of' | Reason: VETO_REVERSE_S_TO_F
+ Done. (57 changes applied)
+
+Batch 700-800 Processing...
+   [VETO] Orig: 'armies' | AI: 'for' | Reason: VETO_REVERSE_S_TO_F
+ Done. (64 changes applied)
+
+Batch 800-900 Processing... Done. (48 changes applied)
+
+Batch 900-1000 Processing...
+   [VETO] Orig: 'se' | AI: 'referve' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: 'momentous' | AI: 'crifis' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: 'division' | AI: 'of' | Reason: VETO_REVERSE_S_TO_F
+ Done. (83 changes applied)
+
+Batch 1000-1100 Processing... Done. (61 changes applied)
+
+Batch 1100-1200 Processing... Done. (67 changes applied)
+
+Batch 1200-1300 Processing... Done. (36 changes applied)
+
+Batch 1300-1400 Processing... Done. (62 changes applied)
+
+Batch 1400-1500 Processing... Done. (18 changes applied)
+
+Batch 1500-1600 Processing...
+   [VETO] Orig: 'this' | AI: 'of' | Reason: VETO_REVERSE_S_TO_F
+ Done. (66 changes applied)
+
+Batch 1600-1700 Processing...
+   [VETO] Orig: 'bou-' | AI: 'ne' | Reason: VETO_HYPHEN_LOSS
+ Done. (73 changes applied)
+
+Batch 1700-1800 Processing... Done. (17 changes applied)
+
+Batch 1800-1900 Processing...
+   [VETO] Orig: 'des' | AI: 'fron-' | Reason: VETO_REVERSE_S_TO_F
+
+   [VETO] Orig: 'from-' | AI: 'tiers' | Reason: VETO_HYPHEN_LOSS
+
+   [VETO] Orig: 'juf-' | AI: 'Schieitz' | Reason: VETO_HYPHEN_LOSS
+
+   [VETO] Orig: 'Louis' | AI: 'fut' | Reason: VETO_REVERSE_S_TO_F
+ Done. (73 changes applied)
+
+Batch 1900-2000 Processing... Done. (26 changes applied)
+
+Batch 2000-2100 Processing... Done. (19 changes applied)
+
+Batch 2100-2200 Processing... Done. (24 changes applied)
+
+Batch 2200-2300 Processing...
+   [VETO] Orig: '-' | AI: 'i' | Reason: VETO_HYPHEN_LOSS
+ Done. (24 changes applied)
+
+Batch 2300-2400 Processing... Done. (31 changes applied)
+
+Batch 2400-2500 Processing... Done. (27 changes applied)
+
+Batch 2500-2600 Processing... Done. (47 changes applied)
+
+Batch 2600-2700 Processing... Done. (32 changes applied)
+
+Batch 2700-2800 Processing... Done. (57 changes applied)
+
+Batch 2800-2900 Processing... Done. (8 changes applied)
+
+Batch 2900-3000 Processing...
+   [VETO] Orig: '-' | AI: ',' | Reason: VETO_HYPHEN_LOSS
+ Done. (91 changes applied)
+
+Batch 3000-3100 Processing... Done. (33 changes applied)
+
+Batch 3100-3200 Processing... Done. (28 changes applied)
+
+Batch 3200-3300 Processing... Done. (19 changes applied)
+
+Batch 3300-3380 Processing... Done. (6 changes applied)
+  ✅ Saved 1000 corrections to master CSV.
+
+🎉 BATCH PROCESSING COMPLETE!
+⏱️ Total Execution Time: 0h 11m 21.15s

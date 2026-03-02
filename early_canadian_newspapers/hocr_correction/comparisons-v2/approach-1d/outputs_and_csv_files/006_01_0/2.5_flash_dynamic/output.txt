@@ -1,0 +1,48 @@
+Connected to Gemini 2.5 Flash.
+--- 🚀 STARTING BATCH PIPELINE ---
+Saving to: MASTER_Correction_Dictionary.csv
+
+Processing: 006_01_0.hocr...
+Found 1797 words. Processing in batches of 100...
+
+Batch 0-100 Processing...
+   [VETO] Orig: '1777-' | AI: '1777.' | Reason: VETO_HYPHEN_LOSS
+ Done. (16 changes applied)
+
+Batch 100-200 Processing... Done. (14 changes applied)
+
+Batch 200-300 Processing... Done. (9 changes applied)
+
+Batch 300-400 Processing... Done. (6 changes applied)
+
+Batch 400-500 Processing... Done. (3 changes applied)
+
+Batch 500-600 Processing... Done. (9 changes applied)
+
+Batch 600-700 Processing... Done. (5 changes applied)
+
+Batch 700-800 Processing... Done. (10 changes applied)
+
+Batch 800-900 Processing... Done. (8 changes applied)
+
+Batch 900-1000 Processing... Done. (8 changes applied)
+
+Batch 1000-1100 Processing... Done. (10 changes applied)
+
+Batch 1100-1200 Processing... Done. (11 changes applied)
+
+Batch 1200-1300 Processing... Done. (6 changes applied)
+
+Batch 1300-1400 Processing... Done. (13 changes applied)
+
+Batch 1400-1500 Processing... Done. (7 changes applied)
+
+Batch 1500-1600 Processing... Done. (7 changes applied)
+
+Batch 1600-1700 Processing... Done. (13 changes applied)
+
+Batch 1700-1797 Processing... Done. (12 changes applied)
+  ✅ Saved 175 corrections to master CSV.
+
+🎉 BATCH PROCESSING COMPLETE!
+⏱️ Total Execution Time: 0h 8m 42.09s
