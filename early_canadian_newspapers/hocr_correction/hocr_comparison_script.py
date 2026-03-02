@@ -34,16 +34,13 @@ def calculate_metrics_by_id(orig_dict, manual_dict, ai_dict):
 
     # use the the manual hocr as source of truth (because that is what we expect)
     for word_id, manual_text in manual_dict.items():
-        # orig_text = orig_dict.get(word_id, "")
-        # ai_text = ai_dict.get(word_id, "")
-
         manual_text = normalize(manual_text)
         orig_text = normalize(orig_dict.get(word_id, ""))
         ai_text = normalize(ai_dict.get(word_id, ""))
 
         # skip if there was a word insertion in manual
-        # if (manual_text != "" and orig_text == "") or (manual_text != "" and ai_text == ""):
-        #     continue
+        if (manual_text != "" and orig_text == "") or (manual_text != "" and ai_text == ""):
+            continue
 
         # change was made between original and human corected
         if orig_text != manual_text:
@@ -116,12 +113,8 @@ def run_evaluation(orig_path, manual_path, ai_path, output_csv="id_based_evaluat
 
 
 if __name__ == "__main__":
-    ORIGINAL_HOCR = "comparisons-v2/approach-1d/hocr_original/005_02_0.hocr"
-    MANUAL_HOCR = "comparisons-v2/approach-1d/hocr_manually_corrected/005_02_0_Corrected_OCR.hocr"
-    AI_HOCR = "comparisons-v2/approach-1d/hocr_gemini_corrected/005_02_0/2.5_flash_dynamic_AI_corrected.hocr"
+    ORIGINAL_HOCR = "comparisons-v2/approach-1d/hocr_original/005_01_2.hocr"
+    MANUAL_HOCR = "comparisons-v2/approach-1d/hocr_manually_corrected/005_01_2_Corrected_OCR.hocr"
+    AI_HOCR = "comparisons-v2/approach-1d/hocr_gemini_corrected/005_01_2/2.5_flash_dynamic_AI_corrected.hocr"
 
-    # below accuracy is very low, investigate WHY?
-    # ORIGINAL_HOCR = "hocr_original/005_01_6.hocr"
-    # MANUAL_HOCR = "hocr_manually_corrected/005_01_6_Corrected_OCR.hocr"
-    # AI_HOCR = "hocr_gemini_corrected/005_01_6/3_flash_low_AI_corrected.hocr"
     run_evaluation(ORIGINAL_HOCR, MANUAL_HOCR, AI_HOCR)
