@@ -1,12 +1,37 @@
 Batch Size: 100
 Temperature: 0.0
-Models: ['gemini-3-flash-preview', 'gemini-3-pro-preview']
+Models: ['gemini-2.5-flash', 'gemini-3-flash-preview', 'gemini-3-pro-preview', 'gemini-3.1-pro-preview']
 
-
-Comparison V2 includes the following changes:
+==================================================
+Comparison V2 includes the following approaches:
 Approach 1A: 
     - change temperature to 0.0
     - apply thinking config (flash: MINIMAL; pro: LOW)
 Approach 1B:
-    - approach 1A plus the following
-    - change to giving entire HOCR content instead of giving JSON
+    - approach 1A with the following changes:
+    - change to giving entire HOCR content instead of giving JSON in prompt
+Approach 1C:
+    - pass the hocr file itself (1 snippet)
+Approach 1D:
+    basically same thing as Approach 1A but contains a lot of differnet combinations in terms of models and thinking levels
+UI Testing:
+    - this directory contains the tests done by manually providing the hOCR snippet file and JPG file. the prompt is stored in the directory (developed by Nat)
+
+==================================================
+Notes:
+1. 3 Pro hardly mostly outputs "Error: 'list' object has no attribute 'items'" sometimes get stuck on the server busy error.
+
+2. For Approach 1D, if you are not able to see any model data/output, it implies that we recieved the "Error: 'list' object has no attribute 'items'" or got stuck on the server busy error.
+Thus, as a result there was no output, hOCR file, or master dictionary csv file worth tracking. 
+
+3. Model and Thinking Configuration Combinations
+- 2.5 Flash - DYNAMIC (thinking budget not specified), NO THINKING (thinking budget is set to 0)
+- 3.0 Flash - MINIMAL, LOW, MEDIUM, HIGH
+- 3.0 Pro - LOW, HIGH
+- 3.1 Pro - LOW, MEDIUM, HIGH
+
+4. Passing the hocr file itself was also tried and experimented in 1C (different from 1B since we are passing file itself and not the content in the prompt) BUT it resulted in either error
+"Error: 'list' object has no attribute 'items'" OR applied 0 changes. Thus, there was no data worth tracking.
+
+5. The comparison script replaces similar unicode characters which are very hard to see but functionally the same.
+If we dont do this, we will count as missed changes, and thus it will affect our accuracy in the hocr_comparison_script.py
