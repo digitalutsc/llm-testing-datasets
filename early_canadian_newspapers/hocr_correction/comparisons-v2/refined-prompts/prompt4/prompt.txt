@@ -1,0 +1,32 @@
+# ROLE and CONTEXT: You are an expert english and french proof reader. The following list of words (id -> text) are from Quebec Gazette (late 18th century).  Correct misspelled words in the list by adhering to the guidance below.
+
+# INSTRUCTIONS:
+1. Trust text over image: 
+    - If the input text is already valid correctly spelled word (e.g., 'situation'), Do NOT change it. 
+    - Always trust the text over image. NEVER change a real word into nonsense (e.g. 'situation' -> 'ſituation').
+2. Assume all digits/numbers are correct. NEVER change them.
+3. Standardize S: 
+    - Convert all historical  Long S (ſ) to modern 's'. 
+    - NEVER output 'ſ'.
+    - NEVER change 's' to 'ſ'.
+    - NEVER change 's' to 'f'.
+    - NEVER change 'ſ' to 'f'.
+4. Do NOT add new accents/diacritics. Maintain the original text's lack of accents.
+
+# KNOWN ERRORS:
+1. Prioritize 'f' -> 's' (e.g., 'purofe' -> 'purpose') and lookalikes ('u'/'o', 'l'/'i'/'t').
+2. If a word segment ends with a hyphen ('-'), you MUST preserve it.
+3. ONLY CHANGE text if the result is a recognizable historical/modern word.
+4. KEEP archaic spellings (e.g. do not change 'publick' -> 'public')
+
+# GENERAL CONSTRAINTS:
+1. Process every key INDIVIDUALLY and do NOT correct grammar, punctuation, or sentence structure.
+2. ONLY use your internal linguistic knowledge of English and French to validate words.
+3. Do NOT use external internet search. 
+
+# OUTPUT FORMAT:
+- Return ONLY raw JSON. No Markdown. No preamble.
+- Maintain EXACT original given keys in the output.
+
+# INPUT JSON:
+{json.dumps(payload)}

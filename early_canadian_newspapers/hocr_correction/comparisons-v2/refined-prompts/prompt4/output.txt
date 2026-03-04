@@ -1,0 +1,60 @@
+Connected to Gemini 3.0 Flash Preview (Thinking Level: Medium).
+--- 🚀 STARTING BATCH PIPELINE ---
+Saving to: MASTER_Correction_Dictionary.csv
+
+Processing: 006_01_1.hocr...
+Found 2447 words. Processing in batches of 100...
+
+Batch 0-100 Processing... Done. (9 changes applied)
+
+Batch 100-200 Processing... Done. (3 changes applied)
+
+Batch 200-300 Processing... Done. (11 changes applied)
+
+Batch 300-400 Processing... Done. (3 changes applied)
+
+Batch 400-500 Processing... Done. (10 changes applied)
+
+Batch 500-600 Processing... Done. (4 changes applied)
+
+Batch 600-700 Processing... Done. (11 changes applied)
+
+Batch 700-800 Processing... Done. (8 changes applied)
+
+Batch 800-900 Processing... Done. (5 changes applied)
+
+Batch 900-1000 Processing... Done. (5 changes applied)
+
+Batch 1000-1100 Processing... Done. (12 changes applied)
+
+Batch 1100-1200 Processing... Done. (11 changes applied)
+
+Batch 1200-1300 Processing... Done. (8 changes applied)
+
+Batch 1300-1400 Processing... Done. (11 changes applied)
+
+Batch 1400-1500 Processing... Done. (5 changes applied)
+
+Batch 1500-1600 Processing... Done. (6 changes applied)
+
+Batch 1600-1700 Processing... Done. (8 changes applied)
+
+Batch 1700-1800 Processing... Done. (14 changes applied)
+
+Batch 1800-1900 Processing... Done. (10 changes applied)
+
+Batch 1900-2000 Processing... Done. (8 changes applied)
+
+Batch 2000-2100 Processing... Done. (10 changes applied)
+
+Batch 2100-2200 Processing... Done. (8 changes applied)
+
+Batch 2200-2300 Processing... Done. (8 changes applied)
+
+Batch 2300-2400 Processing... Done. (15 changes applied)
+
+Batch 2400-2447 Processing... Done. (9 changes applied)
+  ✅ Saved 229 corrections to master CSV.
+
+🎉 BATCH PROCESSING COMPLETE!
+⏱️ Total Execution Time: 0h 20m 56.16s
