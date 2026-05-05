@@ -1,0 +1,265 @@
+Word ID,Original Word,Corrected Word,Rule Applied
+word_1_4_1_1_5,Houſe,House,Long 's' (ſ) Replacement
+word_1_4_1_1_11,"Meſſage
+","Message
+",Long 's' (ſ) Replacement
+word_1_4_1_4_9,Houſe,House,Long 's' (ſ) Replacement
+word_1_8_0_0_5,confideration ,consideration ,CSV Dictionary Match
+word_1_8_0_0_7,ſupplies ,supplies ,Long 's' (ſ) Replacement
+word_1_8_0_1_4,ſo ,so ,Long 's' (ſ) Replacement
+word_1_8_0_1_9,fupported ,supported ,Heuristic 'f' to 's' Replacement
+word_1_8_0_2_0,fuch ,such ,CSV Dictionary Match
+word_1_8_0_2_2,firmneſs ,firmness ,Long 's' (ſ) Replacement
+word_1_8_0_3_0,preſent ,present ,Long 's' (ſ) Replacement
+word_1_8_0_3_1,extenſive ,extensive ,Long 's' (ſ) Replacement
+word_1_8_0_3_7,Houſe ,House ,Long 's' (ſ) Replacement
+word_1_8_0_6_6,confideration ,consideration ,CSV Dictionary Match
+word_1_8_0_7_3,eſtabliſhment,establishment,Long 's' (ſ) Replacement
+word_1_8_0_7_8,ſhortly ,shortly ,Long 's' (ſ) Replacement
+word_1_8_0_7_9,cauſe ,cause ,Long 's' (ſ) Replacement
+word_1_8_0_8_0,Houſe,House,Long 's' (ſ) Replacement
+word_1_8_0_8_2,defiring ,desiring ,Heuristic 'f' to 's' Replacement
+word_1_8_0_8_4,afſiſtance ,assistance ,Heuristic 'f' to 's' Replacement
+word_1_8_0_9_7,referves ,reserves ,Heuristic 'f' to 's' Replacement
+word_1_8_0_10_3,reſts ,rests ,Long 's' (ſ) Replacement
+word_1_8_0_10_6,fure ,sure ,Heuristic 'f' to 's' Replacement
+word_1_8_0_10_10,beſt ,best ,Long 's' (ſ) Replacement
+word_1_8_0_10_11,ſupport ,support ,Long 's' (ſ) Replacement
+word_1_8_0_12_2,refource ,resource ,Heuristic 'f' to 's' Replacement
+word_1_8_0_12_7,fo ,so ,CSV Dictionary Match
+word_1_8_0_12_13,moſt ,most ,Long 's' (ſ) Replacement
+word_1_8_0_12_14,"ſolid
+","solid
+",Long 's' (ſ) Replacement
+word_1_8_0_13_2,ſtable ,stable ,Long 's' (ſ) Replacement
+word_1_8_0_13_3,ſecurity ,security ,Long 's' (ſ) Replacement
+word_1_8_0_13_7,provifion ,provision ,Heuristic 'f' to 's' Replacement
+word_1_8_0_13_10,perſon ,person ,Long 's' (ſ) Replacement
+word_1_10_0_0_1,foon ,soon ,CSV Dictionary Match
+word_1_10_0_0_4,meſſage ,message ,Long 's' (ſ) Replacement
+word_1_10_0_1_2,roſe ,rose ,Long 's' (ſ) Replacement
+word_1_10_0_1_4,faid,said,CSV Dictionary Match
+word_1_10_0_1_12,moſt ,most ,Long 's' (ſ) Replacement
+word_1_10_0_2_0,meſſage ,message ,Long 's' (ſ) Replacement
+word_1_10_0_2_3,Houſe ,House ,Long 's' (ſ) Replacement
+word_1_10_0_2_13,"ſhould
+","should
+",Long 's' (ſ) Replacement
+word_1_10_0_3_3,expreſs ,express ,Long 's' (ſ) Replacement
+word_1_10_0_3_6,ſenſe ,sense ,Long 's' (ſ) Replacement
+word_1_10_0_5_4,diſtreſſes ,distresses ,Long 's' (ſ) Replacement
+word_1_10_0_6_2,caſing ,casing ,Long 's' (ſ) Replacement
+word_1_10_0_6_5,thoſe ,those ,Long 's' (ſ) Replacement
+word_1_10_0_6_6,diſtreſſes,distresses,Long 's' (ſ) Replacement
+word_1_10_0_7_0,bleffed ,blessed ,Heuristic 'f' to 's' Replacement
+word_1_10_0_7_12,raiſed ,raised ,Long 's' (ſ) Replacement
+word_1_10_0_8_12,faw ,saw ,CSV Dictionary Match
+word_1_10_0_9_16,"diſpoſed
+","disposed
+",Long 's' (ſ) Replacement
+word_1_10_0_10_3,commiferate ,commiserate ,Heuristic 'f' to 's' Replacement
+word_1_10_0_10_10,fituation ,situation ,Heuristic 'f' to 's' Replacement
+word_1_10_0_11_8,meffage ,message ,Heuristic 'f' to 's' Replacement
+word_1_10_0_12_13,ſhould ,should ,Long 's' (ſ) Replacement
+word_1_10_0_13_0,confidered ,considered ,CSV Dictionary Match
+word_1_10_0_13_6,intereſt,interest,Long 's' (ſ) Replacement
+word_1_10_0_15_5,ſhould ,should ,Long 's' (ſ) Replacement
+word_1_10_0_15_6,beft ,best ,Heuristic 'f' to 's' Replacement
+word_1_10_0_15_7,fupport ,support ,Heuristic 'f' to 's' Replacement
+word_1_10_0_16_1,fpirit ,spirit ,Heuristic 'f' to 's' Replacement
+word_1_10_0_16_4,conſtitution,constitution,Long 's' (ſ) Replacement
+word_1_10_1_0_3,pauſed,paused,Long 's' (ſ) Replacement
+word_1_10_1_1_2,occafion,occasion,CSV Dictionary Match
+word_1_10_1_2_5,fubject ,subject ,CSV Dictionary Match
+word_1_10_1_3_13,thoſe ,those ,Long 's' (ſ) Replacement
+word_1_10_1_4_2,fuch ,such ,CSV Dictionary Match
+word_1_10_1_5_0,ſubject,subject,Long 's' (ſ) Replacement
+word_1_10_1_5_4,ſo ,so ,Long 's' (ſ) Replacement
+word_1_10_1_5_7,meſiage ,mesiage ,Long 's' (ſ) Replacement (Unresolved)
+word_1_10_1_8_0,fence,sence,Hyphenated Part: Heuristic 'f' to 's' Replacement
+word_1_10_1_8_9,gracioufly ,graciously ,Heuristic 'f' to 's' Replacement
+word_1_10_1_9_6,Houſe ,House ,Long 's' (ſ) Replacement
+word_1_10_1_9_10,fubject ,subject ,CSV Dictionary Match
+word_1_10_1_9_15,"ſuch
+","such
+",Long 's' (ſ) Replacement
+word_1_10_1_10_0,univerſa,universa,Long 's' (ſ) Replacement (Unresolved)
+word_1_10_1_10_2,pleafure,pleasure,Heuristic 'f' to 's' Replacement
+word_1_10_1_10_7,fuch ,such ,CSV Dictionary Match
+word_1_10_1_10_8,univerfal ,universal ,CSV Dictionary Match
+word_1_10_1_11_2,ſpeak ,speak ,Long 's' (ſ) Replacement
+word_1_10_1_12_2,Addreſs ,Address ,Long 's' (ſ) Replacement
+word_1_10_1_12_5,preſented ,presented ,Long 's' (ſ) Replacement
+word_1_10_1_13_9,aſſuring ,assuring ,Long 's' (ſ) Replacement
+word_1_10_1_14_8,meaſure ,measure ,Long 's' (ſ) Replacement
+word_1_10_1_14_12,"ſhould
+","should
+",Long 's' (ſ) Replacement
+word_1_10_1_15_0,fuggeft ,suggest ,Heuristic 'f' to 's' Replacement
+word_1_10_1_17_2,ſpoke ,spoke ,Long 's' (ſ) Replacement
+word_1_10_1_17_3,laſt,last,Long 's' (ſ) Replacement
+word_1_10_1_17_10,fuch ,such ,CSV Dictionary Match
+word_1_10_1_17_14,"laft
+","last
+",CSV Dictionary Match
+word_1_10_1_18_5,Engliſhmen,Englishmen,Long 's' (ſ) Replacement
+word_1_10_1_20_7,likewife ,likewise ,CSV Dictionary Match
+word_1_10_1_20_12,mift ,mist ,Heuristic 'f' to 's' Replacement
+word_1_10_1_21_2,fo ,so ,CSV Dictionary Match
+word_1_10_1_21_6,ſo ,so ,Long 's' (ſ) Replacement
+word_1_10_1_22_5,refplendent ,resplendent ,Heuristic 'f' to 's' Replacement
+word_1_10_1_24_1,greateft,greatest,Heuristic 'f' to 's' Replacement
+word_1_10_1_24_10,beſt ,best ,Long 's' (ſ) Replacement
+word_1_10_1_27_0,courſe ,course ,Hyphenated Part: Long 's' (ſ) Replacement
+word_1_10_1_29_5,fupport ,support ,Heuristic 'f' to 's' Replacement
+word_1_10_1_29_12,moſt ,most ,Long 's' (ſ) Replacement
+word_1_10_1_31_3,fuch ,such ,CSV Dictionary Match
+word_1_10_1_32_0,Adminiftration,Administration,CSV Dictionary Match
+word_1_10_2_0_8,Addreſs,Address,Long 's' (ſ) Replacement
+word_1_10_3_0_3,rofe,rose,Heuristic 'f' to 's' Replacement
+word_1_10_3_0_7,permiſſion ,permission ,Long 's' (ſ) Replacement
+word_1_10_3_1_0,thoſe ,those ,Long 's' (ſ) Replacement
+word_1_10_3_1_5,fo ,so ,CSV Dictionary Match
+word_1_10_3_1_10,meſſage ,message ,Long 's' (ſ) Replacement
+word_1_10_3_2_3,ſtill ,still ,Long 's' (ſ) Replacement
+word_1_10_3_2_11,effuſion ,effusion ,Long 's' (ſ) Replacement
+word_1_10_3_3_13,reſpect ,respect ,Long 's' (ſ) Replacement
+word_1_10_3_4_4,Majefty ,Majesty ,CSV Dictionary Match
+word_1_10_3_5_2,Houſe ,House ,Long 's' (ſ) Replacement
+word_1_10_3_7_3,whoſe ,whose ,Long 's' (ſ) Replacement
+word_1_10_3_7_7,fuch ,such ,CSV Dictionary Match
+word_1_10_3_8_7,cloſe ,close ,Long 's' (ſ) Replacement
+word_1_15_0_1_7,meſſage ,message ,Long 's' (ſ) Replacement
+word_1_15_0_4_10,d'uſage,d'usage,Long 's' (ſ) Replacement (Unresolved)
+word_1_18_0_0_1,ſa ,sa ,Long 's' (ſ) Replacement
+word_1_18_0_0_3,conſidérant ,considérant ,Long 's' (ſ) Replacement
+word_1_18_0_0_6,ſubſiden ,subsiden ,Long 's' (ſ) Replacement (Unresolved)
+word_1_18_0_1_0,fi ,si ,CSV Dictionary Match
+word_1_18_0_1_4,ſupportées ,supportées ,Long 's' (ſ) Replacement
+word_1_18_0_2_1,fon ,son ,CSV Dictionary Match
+word_1_18_0_2_6,fi ,si ,CSV Dictionary Match
+word_1_18_0_3_3,conſidération ,considération ,Long 's' (ſ) Replacement
+word_1_18_0_3_6,folide ,solide ,Heuristic 'f' to 's' Replacement
+word_1_18_0_4_5,dépenſes ,dépenses ,Long 's' (ſ) Replacement
+word_1_18_0_5_4,fi ,si ,CSV Dictionary Match
+word_1_18_0_5_7,ſa ,sa ,Long 's' (ſ) Replacement
+word_1_18_0_5_8,Majeſté ,Majesté ,Long 's' (ſ) Replacement
+word_1_18_0_6_3,ſon ,son ,Long 's' (ſ) Replacement
+word_1_18_0_6_4,établiſſement ,établissement ,Long 's' (ſ) Replacement
+word_1_18_0_7_6,fon ,son ,CSV Dictionary Match
+word_1_18_0_7_7,alliſtance ,allistance ,Long 's' (ſ) Replacement (Unresolved)
+word_1_18_0_8_10,fon ,son ,CSV Dictionary Match
+word_1_18_0_8_13,fur ,sur ,CSV Dictionary Match
+word_1_18_0_9_3,ſe ,se ,Long 's' (ſ) Replacement
+word_1_18_0_9_4,repoſe ,repose ,Long 's' (ſ) Replacement
+word_1_18_0_9_10,foutien ,soutien ,CSV Dictionary Match
+word_1_18_0_10_6,ſa ,sa ,Long 's' (ſ) Replacement
+word_1_18_0_10_10,fon ,son ,CSV Dictionary Match
+word_1_18_0_11_0,juſqu'ici ,jusqu'ici ,Long 's' (ſ) Replacement (Unresolved)
+word_1_18_0_11_4,fon ,son ,CSV Dictionary Match
+word_1_18_0_11_6,reſſource ,ressource ,Long 's' (ſ) Replacement
+word_1_18_0_11_9,occafion,occasion,CSV Dictionary Match
+word_1_18_0_11_11,ainfi ,ainsi ,Heuristic 'f' to 's' Replacement
+word_1_18_0_12_2,ſureté ,sureté ,Long 's' (ſ) Replacement (Unresolved)
+word_1_18_0_12_5,folide ,solide ,Heuristic 'f' to 's' Replacement
+word_1_18_0_12_9,ſtable ,stable ,Long 's' (ſ) Replacement
+word_1_18_0_12_12,provifion ,provision ,Heuristic 'f' to 's' Replacement
+word_1_18_0_13_3,ſa ,sa ,Long 's' (ſ) Replacement
+word_1_18_0_13_4,perſonne ,personne ,Long 's' (ſ) Replacement
+word_1_18_0_13_6,fa ,sa ,CSV Dictionary Match
+word_1_18_0_15_3,meſſage ,message ,Long 's' (ſ) Replacement
+word_1_21_0_0_2,fe ,se ,CSV Dictionary Match
+word_1_21_0_0_13,meſſage ,message ,Long 's' (ſ) Replacement
+word_1_21_0_0_15,ſa ,sa ,Long 's' (ſ) Replacement
+word_1_21_0_2_4,fentait ,sentait ,Heuristic 'f' to 's' Replacement
+word_1_21_0_2_7,ſujet,sujet,Long 's' (ſ) Replacement
+word_1_21_0_3_4,meſſage ,message ,Long 's' (ſ) Replacement
+word_1_21_0_4_6,fon ,son ,CSV Dictionary Match
+word_1_21_0_5_2,foulager ,soulager ,Heuristic 'f' to 's' Replacement
+word_1_21_0_5_3,fon ,son ,CSV Dictionary Match
+word_1_21_0_7_2,fon ,son ,CSV Dictionary Match
+word_1_21_0_7_6,diffipé,dissipé,Heuristic 'f' to 's' Replacement
+word_1_21_0_7_11,préſent ,présent ,Long 's' (ſ) Replacement
+word_1_21_0_8_8,ſentiments,sentiments,Long 's' (ſ) Replacement
+word_1_21_0_9_7,difpofé ,disposé ,Heuristic 'f' to 's' Replacement
+word_1_21_0_9_15,"fon
+","son
+",CSV Dictionary Match
+word_1_21_0_10_2,lorſqu'on ,lorsqu'on ,Long 's' (ſ) Replacement (Unresolved)
+word_1_21_0_10_5,deſſous ,dessous ,Long 's' (ſ) Replacement
+word_1_21_0_10_8,fa ,sa ,CSV Dictionary Match
+word_1_21_0_10_9,fituation ,situation ,Heuristic 'f' to 's' Replacement
+word_1_21_0_10_13,"eſpé
+","espé
+",Long 's' (ſ) Replacement (Unresolved)
+word_1_21_0_11_5,meſſage ,message ,Long 's' (ſ) Replacement
+word_1_21_0_15_0,conteſtation ,contestation ,Long 's' (ſ) Replacement
+word_1_21_0_15_7,ſupporterait ,supporterait ,Long 's' (ſ) Replacement
+word_1_21_0_16_1,l'eſprit ,l'esprit ,Long 's' (ſ) Replacement (Unresolved)
+word_1_21_1_0_5,pauſe ,pause ,Long 's' (ſ) Replacement
+word_1_21_1_1_10,ſon ,son ,Long 's' (ſ) Replacement
+word_1_21_1_2_2,ſujet ,sujet ,Long 's' (ſ) Replacement
+word_1_21_1_2_5,ſur ,sur ,Long 's' (ſ) Replacement
+word_1_21_1_2_6,ſa ,sa ,Long 's' (ſ) Replacement
+word_1_21_1_3_11,taifait ,taisait ,Heuristic 'f' to 's' Replacement
+word_1_21_1_4_0,fenfations,sensations,Heuristic 'f' to 's' Replacement
+word_1_21_1_5_0,fujet ,sujet ,CSV Dictionary Match
+word_1_21_1_5_6,meffage ,message ,Heuristic 'f' to 's' Replacement
+word_1_21_1_5_7,fi ,si ,CSV Dictionary Match
+word_1_21_1_6_4,ſouvenir ,souvenir ,Long 's' (ſ) Replacement
+word_1_21_1_7_5,fur ,sur ,CSV Dictionary Match
+word_1_21_1_8_0,préſence ,présence ,Long 's' (ſ) Replacement
+word_1_21_1_8_5,préſent ,présent ,Long 's' (ſ) Replacement
+word_1_21_1_8_6,auffi ,aussi ,Heuristic 'f' to 's' Replacement
+word_1_21_1_9_2,fon ,son ,CSV Dictionary Match
+word_1_21_1_10_3,fur ,sur ,CSV Dictionary Match
+word_1_21_1_10_5,fujet ,sujet ,CSV Dictionary Match
+word_1_21_1_10_7,cauſait ,causait ,Long 's' (ſ) Replacement
+word_1_21_1_10_9,plaifir ,plaisir ,Heuristic 'f' to 's' Replacement
+word_1_21_1_10_10,fi ,si ,CSV Dictionary Match
+word_1_21_1_10_11,univerſel,universel,Long 's' (ſ) Replacement
+word_1_21_1_11_6,fentiments ,sentiments ,Heuristic 'f' to 's' Replacement
+word_1_21_1_12_11,fus ,sus ,Heuristic 'f' to 's' Replacement
+word_1_21_1_13_0,préſenté ,présenté ,Long 's' (ſ) Replacement
+word_1_21_1_13_2,ſa ,sa ,Long 's' (ſ) Replacement
+word_1_21_1_13_3,Majefté,Majesté,CSV Dictionary Match
+word_1_21_1_13_6,adreffe,adresse,Heuristic 'f' to 's' Replacement
+word_1_21_1_13_13,fon ,son ,CSV Dictionary Match
+word_1_21_1_15_4,ſa ,sa ,Long 's' (ſ) Replacement
+word_1_21_1_15_11,fon ,son ,CSV Dictionary Match
+word_1_21_1_16_5,ſa ,sa ,Long 's' (ſ) Replacement
+word_1_21_2_0_2,ſeconda ,seconda ,Long 's' (ſ) Replacement
+word_1_21_2_1_0,Monfieur ,Monsieur ,CSV Dictionary Match
+word_1_21_2_2_4,perſpective ,perspective ,Long 's' (ſ) Replacement
+word_1_21_2_2_8,ſe ,se ,Long 's' (ſ) Replacement
+word_1_21_2_4_1,fans ,sans ,CSV Dictionary Match
+word_1_21_2_5_3,fi ,si ,CSV Dictionary Match
+word_1_21_2_6_0,Majefté,Majesté,CSV Dictionary Match
+word_1_21_2_6_4,heureuſement ,heureusement ,Long 's' (ſ) Replacement
+word_1_21_2_6_5,diffipé ,dissipé ,Heuristic 'f' to 's' Replacement
+word_1_21_2_8_10,ſa ,sa ,Long 's' (ſ) Replacement
+word_1_21_2_9_3,heureuſe ,heureuse ,Long 's' (ſ) Replacement
+word_1_21_2_10_8,ainſi ,ainsi ,Long 's' (ſ) Replacement
+word_1_21_2_11_4,ſouverain ,souverain ,Long 's' (ſ) Replacement
+word_1_21_2_11_6,ſon ,son ,Long 's' (ſ) Replacement
+word_1_21_2_11_10,ſurtout ,surtout ,Long 's' (ſ) Replacement
+word_1_21_2_13_3,foutenu ,soutenu ,Heuristic 'f' to 's' Replacement
+word_1_21_2_15_0,reuſement ,reusement ,Hyphenated Part: Long 's' (ſ) Replacement
+word_1_21_2_15_1,paffe,passe,Heuristic 'f' to 's' Replacement
+word_1_21_3_0_2,fur ,sur ,CSV Dictionary Match
+word_1_21_4_0_4,ſe ,se ,Long 's' (ſ) Replacement
+word_1_21_4_0_13,fis ,sis ,Heuristic 'f' to 's' Replacement
+word_1_21_4_1_9,meffage ,message ,Heuristic 'f' to 's' Replacement
+word_1_21_4_1_10,fi ,si ,CSV Dictionary Match
+word_1_21_4_1_13,fi ,si ,CSV Dictionary Match
+word_1_21_4_2_11,ſincère ,sincère ,Long 's' (ſ) Replacement
+word_1_21_4_2_12,effuſion ,effusion ,Long 's' (ſ) Replacement
+word_1_21_4_3_2,fa ,sa ,CSV Dictionary Match
+word_1_21_4_3_7,fon ,son ,CSV Dictionary Match
+word_1_21_4_4_7,fa ,sa ,CSV Dictionary Match
+word_1_21_4_4_8,Majefté ,Majesté ,CSV Dictionary Match
+word_1_21_4_4_9,ſe ,se ,Long 's' (ſ) Replacement
+word_1_21_4_4_10,propoſait ,proposait ,Long 's' (ſ) Replacement
+word_1_21_4_5_7,ſemaine ,semaine ,Long 's' (ſ) Replacement
+word_1_21_4_6_9,Monfieur ,Monsieur ,CSV Dictionary Match
+word_1_21_4_6_11,ſes ,ses ,Long 's' (ſ) Replacement
